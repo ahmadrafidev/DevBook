@@ -1,41 +1,15 @@
-# Website
+# My Journey in Learning Software Engineering - ahmadrafidev
 
+Welcome to "My Learning" website, a digital space created by me to document and share a lifelong learning journey, especially in Software Engineeering area. This website serves as a unique, document-like platform where I, Rafi, continuously compile, reflect on, and share the knowledge and skills I acquire throughout my journey in Software Engineering area, either it from internship, mentorship, college, or self-study.
+
+### **Purpose:**
+The primary goal of this website is to embrace the concept of lifelong learning and learning in public. It's a place where I can track my progress, consolidate learning materials, and articulate insights gained from various experiences. By making this learning process public, I hope to inspire others to pursue their interests and commit to never-ending self-improvement, whatever it is your passion. <3
+
+### **Structure:**
+soon
+
+
+---
+
+*ahmadrafidev*
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
-
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
