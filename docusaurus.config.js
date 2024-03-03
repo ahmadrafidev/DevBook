@@ -76,11 +76,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Learning',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ahmadrafidev',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,25 +93,33 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Learning',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Social Media',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Personal Website',
+                href: 'https://www.ahmadrafi.dev/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/in/ahmadrafiwirana/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'X (fka Twitter)',
+                href: 'https://twitter.com/ahmadrafiwirana',
+              },
+              {
+                label: 'Medium',
+                href: 'https://ahmadrafi.medium.com/'
+              },
+              {
+                label: 'Substack',
+                href: 'https://ahhmadrafi.substack.com/'
               },
             ],
           },
@@ -124,7 +132,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/ahmadrafidev',
               },
             ],
           },
