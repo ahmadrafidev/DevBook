@@ -1,5 +1,5 @@
 ---
-sidebar_position: 14
+sidebar_position: 13
 ---
 
 # Monitoring
@@ -7,3 +7,7 @@ sidebar_position: 14
 Here's my discovery about **Monitoring**.
 
 ## The Bird's Eye
+
+## What to Monitory
+
+## Useful Tools for Monitoring (The One I Use)

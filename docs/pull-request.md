@@ -8,6 +8,8 @@ Here's my discovery about **Pull Request**.
 
 ## Introduction
 
+## Behind the Scenes
+
 ## Pull Request Template
 
 ## Conclusion
