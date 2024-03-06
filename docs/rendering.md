@@ -6,4 +6,6 @@ sidebar_position: 9
 
 Here's my discovery about **Rendering**.
 
-## Rendering UI
+## Web Rendering
+
+## Mobile Rendering
