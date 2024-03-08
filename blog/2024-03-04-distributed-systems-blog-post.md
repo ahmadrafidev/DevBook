@@ -2,7 +2,7 @@
 slug: distributed-system
 title: Distributed System 
 authors: [ahmadrafi]
-tags: [distributed system]
+tags: [engineering, distributed system]
 ---
 
 Soon :D
