@@ -2,9 +2,9 @@
 sidebar_position: 10
 ---
 
-# Scaling
+# Scale
 
-Here's my discovery about **Scaling**.
+Here's my discovery about **Scale**.
 
 ## The Breakpoint
 

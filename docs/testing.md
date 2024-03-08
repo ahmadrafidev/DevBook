@@ -10,4 +10,4 @@ Here's my discovery about **Testing**.
 
 ## Unit Testing
 
-## Shift Left Paradigm
+## Shift-left Paradigm
