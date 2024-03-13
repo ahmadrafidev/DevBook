@@ -4,12 +4,14 @@ sidebar_position: 11
 
 # Commit Message
 
-Here's my discovery about **Commit Message**.
+Here's my take about **Commit Message**.
 
 ## Philosophy
 
-1. One liner commit message
-2. Concise
+1. One Liner:
+   1. Commit message is better  if the message is only one liner so that there is no confusion for the reader.
+2. Concise:
+   1. Commit message should be very concise and clear so that others developer can quickly understand what this commit is about.
 
 ## My Commit Message Use Case
 
