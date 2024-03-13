@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Communication
 
-Here's my discovery about **Communication**.
+Here's my take about **Communication**.
 
 ## Team Work
 

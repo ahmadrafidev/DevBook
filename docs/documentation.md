@@ -4,7 +4,7 @@ sidebar_position: 18
 
 # Documentation
 
-Here's my discovery about **Software Documentation**.
+Here's my take about **Software Documentation**.
 
 ## The Need
 

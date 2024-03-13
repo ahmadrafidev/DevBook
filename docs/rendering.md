@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Rendering
 
-Here's my discovery about **User Interface Rendering**.
+Here's my take about **User Interface Rendering**.
 
 ## Web Rendering
 

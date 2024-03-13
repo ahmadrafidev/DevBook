@@ -4,7 +4,7 @@ sidebar_position: 16
 
 # Microservices
 
-Here's my discovery about **Microservices**.
+Here's my take about **Microservices**.
 
 ## Introduction
 

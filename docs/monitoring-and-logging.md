@@ -4,7 +4,7 @@ sidebar_position: 13
 
 # Monitoring and Logging
 
-Here's my discovery about **Monitoring and Logging**.
+Here's my take about **Monitoring and Logging**.
 
 ## The Bird's Eye
 
