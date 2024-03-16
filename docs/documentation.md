@@ -4,9 +4,7 @@ sidebar_position: 18
 
 # Documentation
 
-Here's my perspective on **Documentation**.
-
-Documentation plays an important role in software engineering, as it offers a foundation for understanding the software projects as a whole. 
+Here's my perspective on **Documentation** as documentation plays an important role in software engineering, as it offers a foundation for understanding the software projects as a whole. 
 
 ## Docs as a Code (DAAC)
 
