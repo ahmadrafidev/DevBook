@@ -10,6 +10,14 @@ Here's my take about **Pull Request**.
 
 A wise man said, "time is the most valuable thing". Wherever I've worked as a software engineer, time has been of the essence when I've had to contribute to projects via Pull Requests (PR). Behind every PR, there is a careful process that ensures not only the addition of new features or bug fixes but also the preservation of the integrity and quality of the project. In my case, every Pull Request that must be done must solve the problem to the point and not cause a lot of changes that break a project. So, every change I make to a project I have to explain very clearly and concisely in every change to the Pull Request so that it doesn't take up a lot of time the reviewer.
 
+## A bit of a tips!
+1. Add Test
+2. Small PR
+3. Consistency
+4. Readability
+5. Performance
+6. Automate
+
 ## Pull Request Template
 Here is the pull request template that I often use:
 
