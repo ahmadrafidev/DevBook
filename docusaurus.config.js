@@ -87,7 +87,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Notes',
@@ -137,7 +137,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus. Customized by Me.`,
       },
       prism: {
         theme: prismThemes.github,

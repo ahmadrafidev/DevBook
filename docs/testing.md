@@ -7,7 +7,7 @@ sidebar_position: 7
 Here's my take about **Testing**.
 
 ## Shift-left Paradigm
-The Shift-left Paradigm is a methodology that emphasizes testing early and often in the software development lifecycle. Instead of testing after a product is nearly complete, testing is performed **much earlier**. This approach helps catch and fix issues sooner, which improves quality and reduces development time and costs. 
+The Shift-left Paradigm is a methodology that emphasizes testing early and often in the software development lifecycle. Instead of testing after a product is nearly complete, testing is performed **much earlier**. This approach helps me to catch and fix issues sooner, which improves quality and reduces development time and costs. 
 
 ## Test Driven Development (TDD)
 Test Driven Development (TDD) is a software development approach where tests are written before the actual code. The process follows a simple cycle: write a test, run all tests and see the new one fail, write code to make the test pass, run tests again to ensure all pass, and then refactor the code for optimization. This cycle is repeated for each new feature or functionality. For me, I don't always use TDD on every project I create, but I think this TDD method is very important if the scale of the project is very large and consists of many team members so that the team speed graph over time in coding work can be at the peak just at the beginning of coding.
