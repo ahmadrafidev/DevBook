@@ -4,19 +4,19 @@ sidebar_position: 4
 
 # Commit Message
 
-Here's my take about **Commit Message**.
+Here's my take about **Commit Message** in Software Engineering project.
 
 ## Philosophy
 
 1. One Liner:
-   1. Commit message is better  if the message is only one liner so that there is no confusion for the reader.
+   1. A one-liner commit message advocates for simplicity and can ensure that the purpose of the commit can be quickly grasped at a glance.
 2. Concise:
-   1. Commit message should be very concise and clear so that others developer can quickly understand what this commit is about.
+   1. Commit message should be very concise and clear so that others developer can quickly understand what this commit is about. A concise commit message provides enough information to convey the purpose clearly without unnecessary details.
 
 ## My Commit Message Use Case
 
-For commit message in side project or personal project, 
+For commit message in side projects or personal projects, 
 I usually go to with this site: [Commit Message Conventional](https://www.conventionalcommits.org/en/v1.0.0/), 
 because it offers a standards message that are easy to use and easy to understand for most developers that I used to work with.
 Next, in cases when I work in an organization or company, such as when I was an intern, of course I follow the commit message
-rules that apply in the place where I work. For example, there is a commit message that is tailored to the Jira ticket or task that I am doing, then added with a commit message from [conventional commit message](https://www.conventionalcommits.org/en/v1.0.0/). This method is done so that anyone reviewing my code knows what task I am working on and it is easy to review it, and when someone reads my code in the future, they will know the meaning behind the code that I created.
+rules that apply in the place where I work. For example, there is a commit message that is tailored to the Jira ticket or task that I am doing, then added with a commit message from [conventional commit message](https://www.conventionalcommits.org/en/v1.0.0/). Additionally, I usually also apply limits in my commit messages, such as a commit message limit of 40-50 characters. I do this so I can implement concise commit messages.
