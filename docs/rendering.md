@@ -4,6 +4,17 @@ sidebar_position: 9
 
 # Rendering
 
-## Web Rendering
+## Rendering on the Web
 
-## Mobile Rendering
+### Client Side
+
+### Server Side
+
+### Island Architecture
+
+## Rendering on the Mobile
+
+## Android
+
+## iOS
+
