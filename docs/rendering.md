@@ -14,7 +14,7 @@ sidebar_position: 9
 
 ## Rendering on the Mobile
 
-## Android
+### Android
 
-## iOS
+### iOS
 
