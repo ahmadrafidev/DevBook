@@ -62,3 +62,8 @@ None.
 
 1. Are there any potential risks in the OAuth2 flow?
 2. Suggestions for optimizing the dashboard load time.
+   
+
+
+Apart from the PR template above, this PR template is also good to implement because it is simple and to the point regarding the changes we make to the codebase:
+1. [PR Template](https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit)
