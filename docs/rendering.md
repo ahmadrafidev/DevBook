@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 8
 ---
 
 # Rendering
@@ -17,4 +17,3 @@ sidebar_position: 9
 ### Android
 
 ### iOS
-

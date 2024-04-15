@@ -9,4 +9,3 @@ sidebar_position: 11
 ## Horizontal Scaling
 
 ## Vertical Scaling
-

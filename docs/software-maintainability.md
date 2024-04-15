@@ -18,14 +18,8 @@ I am referencing to this [documentation docs](documentation.md).
 ## Testing
 [Testing docs](testing.md).
 
-## Deployment
-[Deployment docs](deployment.md).
-
 ## Modularity
 [Microservices docs](microservices.md).
 
 ## Scalability
 [Scalability docs](scale.md).
-
-## Security
-[Security docs](security.md).
