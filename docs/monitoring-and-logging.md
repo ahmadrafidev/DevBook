@@ -35,7 +35,9 @@ New Relic
       1. Integration: It offers robust integration options, making it easy to plug into the existing development workflow.
       2. Features: Sentry's features include detailed error reports, issue tracking, and performance insights, which help in maintaining high-quality software.
 
-#### I found this article useful about monitoring and logging tools
+## More References
+
+I found this article useful on why to use monitoring and logging tools
 
 1. [Benefit of using monitoring tools](https://thefrugalarchitect.com/laws/unobserved-systems-lead-to-unknown-costs.html)
 
