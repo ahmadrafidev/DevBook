@@ -34,8 +34,8 @@ Related to #456
 ### Changes:
 
 1. Refactored the auth module to use OAuth2.
-2. Added a new route for the dashboard at /dashboard.
-3. Updated relevant unit tests.
+2. Added a new features for the new dashboard.
+3. Fixed performance-relevant bugs.
 
 ### Screenshots (if applicable, usually when I coding on the frontend side):
 
@@ -44,15 +44,15 @@ Attach images or short video showing the UI changes.
 ### How to Test:
 
 1. Navigate to the login page and ensure the OAuth2 flow is triggered.
-2. Once logged in, visit /dashboard to see the new feature.
+2. Once logged in, visit /dashboard page to see the new feature.
 3. Run the test_auth and test_dashboard unit tests.
 
 ### Checklist:
 
 [ ] Code has been tested locally. \
-[ ] Updated documentation. \
+[ ] Updated relevant documentation. \
 [X] PR title is clear and descriptive. \
-[ ] Performance impacts were analyzed.
+[X] Performance impacts were analyzed.
 
 ### Breaking Changes:
 
@@ -61,9 +61,10 @@ None.
 ### Feedback Requested:
 
 1. Are there any potential risks in the OAuth2 flow?
-2. Suggestions for optimizing the dashboard load time.
-   
+2. Suggestions for optimizing first-time dashboard load time.
 
+
+## Further Reference
 
 Apart from the PR template above, this PR template is also good to implement because it is simple and to the point regarding the changes we make to the codebase:
-1. [PR Template](https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit)
+1. [Diff (or PR) Template](https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit)
