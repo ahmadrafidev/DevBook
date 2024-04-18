@@ -7,13 +7,18 @@ sidebar_position: 5
 Here's my take about **Monitoring and Logging** and why monitoring and logging are **crucial** components of managing and handling any modern IT infrastructure or software projects.
 
 ## The Bird's Eye
+
 At a high level, monitoring provides a bird's eye view of my systems health and performance. It's like having a constant surveillance system that ensures everything runs smoothly and efficiently. Monitoring tools alert me to any performance degradation or system failures, then allowing for proactive management and troubleshooting.
 
 ## The Note Taker
+
 Logging, on the other hand, is the meticulous note-taker of the digital world. It records every event, transaction, and interaction that occurs within the systems. For me, these logs are invaluable for diagnosing problems, understanding user behavior, and ensuring security compliance. 
 
 ## What to Monitor and Logging
+
 In my opinion, when it comes to what should be monitoring and logging, focus on key performance indicators (KPIs) that are critical to the business operations. This includes system health metrics like **CPU usage**, **memory usage**, **network performance**, **error rates**, **resources utilization**, and **application response times**. Log everything that can help to troubleshoot issues or understand the security landscape, including **access logs**, **transaction logs**, and **system events**. One such logging best practices involves logging level-wise, which means categorizing logs based on their severity or importance levels, such as **DEBUG**, **INFO**, **WARNING**, **ERROR**, and **CRITICAL**. This approach allows others developer team to filter and prioritize the log data effectively so they can focusing on the most critical issues first.
+
+
 
 ## Useful Tools That I Use
 1. [Datadog](https://www.datadoghq.com/)
@@ -37,7 +42,8 @@ New Relic
 
 ## More References
 
-I found this article useful on why to use monitoring and logging tools
+I found this article useful on all about monitoring and logging.
 
 1. [Benefit of using monitoring tools](https://thefrugalarchitect.com/laws/unobserved-systems-lead-to-unknown-costs.html)
+2. [How to Instrument Your Service](https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/)
 
