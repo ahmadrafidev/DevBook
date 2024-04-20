@@ -4,14 +4,12 @@ sidebar_position: 3
 
 # Commit Message
 
-Here's my take about **Commit Message** in software development project.
+Here's my take about **Commit Message**.
 
 ## Philosophy
 
-1. One Liner:
-   1. A one-liner commit message advocates for simplicity and can ensure that the purpose of the commit can be quickly grasped at a glance.
-2. Concise:
-   1. Commit message should be very concise and clear so that others developer can quickly understand what this commit is about. A concise commit message provides enough information to convey the purpose clearly without unnecessary details.
+1. **One Liner**: A one-liner commit message advocates for simplicity and can ensure that the purpose of the commit can be quickly grasped at a glance.
+2. **Concise**: Commit message should be very concise and clear so that others developer can quickly understand what this commit is about. A concise commit message provides enough information to convey the purpose clearly without unnecessary details.
 
 ## Use Cases
 
