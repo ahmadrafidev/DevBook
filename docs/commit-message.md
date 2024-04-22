@@ -20,3 +20,4 @@ I usually go to with this site: [Commit Message Conventional](https://www.conven
 
 Below is a package that is quite helpful for me to standardizing commit messages on a software project:
 1. [Commit Lint](https://commitlint.js.org/)
+2. [Commitizen](https://commitizen.github.io/cz-cli/)
