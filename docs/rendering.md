@@ -32,9 +32,22 @@ The web offers a dynamic environment where rendering techniques play a critical 
 Mobile platforms require different considerations compared to web due to their varied ecosystems and performance constraints.
 
 ### Android
+
 1. Techniques Used: Android's rendering engine utilizes Skia for 2D graphics operations. Learning about layout optimizations and how to reduce overdraw has significantly improved the performance of the apps I've developed.
 2. Tools: Android Studio's Layout Inspector has been indispensable for visualizing rendering issues and optimizing layouts.
 
 ### iOS
+
 1. Frameworks: Transitioning between UIKit and SwiftUI has been enlightening. SwiftUI simplifies the rendering of UI components with less boilerplate code compared to UIKit.
 2. Performance Optimization: Using Xcode's Instruments tool helped me understand how rendering works under the hood in iOS and how to pinpoint bottlenecks.
+
+## Nice to Read
+
+I always get more insight into how to render and improve performance on web and mobile platforms from the engineering blogs of some of the big tech companies as they often provide case studies. Here are some of them:
+
+1. [Improving Shopify App Performance (Mobile)](https://shopify.engineering/improving-shopify-app-s-performance)
+2. [Yelp SSR (Web)](https://engineeringblog.yelp.com/2022/02/server-side-rendering-at-scale.html)
+
+## My Go-to Pocket Notes about Rendering
+
+1. [Rendering Pattern](https://www.patterns.dev/react)
