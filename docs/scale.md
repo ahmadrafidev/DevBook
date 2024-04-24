@@ -6,7 +6,7 @@ sidebar_position: 9
 
 As I dive deeper into the world of software engineering, the concept of scaling or scalability has become increasingly significant for me personally. In my experience, it's fascinating to see how both startups (where I once interned) must scale their systems to handle growth and maintain performance even at the early stage of the company. Here are my personal notes on understanding the basic key aspects of scaling: breakpoints, horizontal scaling, and vertical scaling.
 
-## The Breakpoint
+## Understanding Breakpoints
 
 The concept of a breakpoint in scalability is critical: it's that the **tipping point** where your system begins to struggle under increased load. Recognizing this point is crucial for preempting issues and planning effective scaling strategies.
 
@@ -38,3 +38,12 @@ Vertical scaling or scaling up is about beefing up existing servers or nodes. It
 3. Risk of Overloading: By increasing the capabilities of a single node, there's also an increased risk that a failure in this node could have more severe consequences, as more processes depend on its availability and performance.
 4. Simplicity of Deployment: Unlike horizontal scaling, vertical scaling often involves fewer changes to the software architecture, making it easier to manage and deploy.
 5. Cost of High-Performance Hardware: High-end upgrades can be expensive. That's it.
+
+## Recommended Reading
+
+To further explore and enhance my understanding of scalability, I often visiting the following resources:
+
+1. [High Scalability](https://highscalability.com/)
+2. [Unlocking performance, scalability, and cost-efficiency](https://blog.zomato.com/switching-from-tidb-to-dynamodb)
+3. [Scaling to Count Billions](https://www.canva.dev/blog/engineering/scaling-to-count-billions/)
+4. [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
