@@ -28,6 +28,8 @@ Feature flags were a significant part of my learning during my internship. This 
 
 ## Recommended Reading
 
+In my journey through software engineering, I've learned that effective deployment strategies are crucial for delivering stable and reliable software updates. Below, I've listed some resources that have deepened my understanding of various deployment techniques. These articles have been incredibly valuable in helping me minimize downtime and ensure a seamless user experience during software rollouts:
+
 1. [Blue-Green Deployment (Vercel)](https://vercel.com/blog/releasing-safe-and-cost-efficient-blue-green-deployments)
 2. [Type of Software Releases](https://blog.christianposta.com/deploy/blue-green-deployments-a-b-testing-and-canary-releases/)
 3. [Blue-green Deployment (Martin Fowler)](https://martinfowler.com/bliki/BlueGreenDeployment.html)
