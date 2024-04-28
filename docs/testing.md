@@ -64,3 +64,7 @@ def test_get_user_info():
     # Assert the expected output
     assert get_user_info(1, db) == {'id': 1, 'name': 'Test User'}
 ```
+
+## Recommended Reading
+
+1. [Modern Testing by Mercary](https://engineering.mercari.com/en/blog/entry/20240425-mercaris-adoption-of-modern-testing-techniques/)
