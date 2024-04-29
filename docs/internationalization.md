@@ -23,7 +23,7 @@ During one of my projects, I chose i18next as my internationalization framework 
 3. **Pluralization and Formatting**: i18next handles plural forms and localizes dates, currencies, and numbers, which are essential for a truly global application.
 
 
-### Implementation
+### Simple Implementation
 
 1. i18n configuration
 
