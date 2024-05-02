@@ -78,3 +78,9 @@ For further exploration of testing techniques, I recommend the following resourc
 1. [Modern Testing by Mercary](https://engineering.mercari.com/en/blog/entry/20240425-mercaris-adoption-of-modern-testing-techniques/)
 2. [Autonomoues Testing at Meta](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/)
 3. [Effective Test Pipeline by Airbnb](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)
+
+## My go-to tools for testing
+
+1. [Jest](https://jestjs.io/)
+2. [Cypress](https://www.cypress.io/)
+3. [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
