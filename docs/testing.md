@@ -76,8 +76,9 @@ def test_get_user_info():
 For further exploration of testing techniques, I recommend the following resources from some of the big tech companies:
 
 1. [Modern Testing by Mercary](https://engineering.mercari.com/en/blog/entry/20240425-mercaris-adoption-of-modern-testing-techniques/)
-2. [Autonomoues Testing at Meta](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/)
+2. [Autonomous Testing at Meta](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/)
 3. [Effective Test Pipeline by Airbnb](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)
+4. [Selective Testing by Agoda](https://medium.com/agoda-engineering/optimizing-ci-cd-processes-with-selective-testing-f537f9abc9d3)
 
 ## My go-to tools for testing
 
