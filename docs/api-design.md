@@ -80,3 +80,6 @@ Testing is non-negotiable if I want my APIs to be reliable. Here’s my testing 
 - **Monitoring**: I use tools like New Relic to monitor the API in production. It helps me catch issues before they affect users.
 
 ## Recommended Reading
+
+Some articles that really help me to understand better about how to build a robust API
+

@@ -8,7 +8,7 @@ Internationalization, often abbreviated as i18n, is a crucial aspect of modern s
 
 ## i18next
 
-Internationalization involves preparing your software for localization, typically by ensuring that it can handle multiple languages and cultural conventions without engineering changes. This process not only extends the market reach of your software but also enhances user experience by allowing users to interact with your application in their native language.
+Internationalization involves preparing your software for localization, typically by ensuring that it can handle multiple languages and cultural conventions without engineering changes. This process not only extends the market reach of the software/application but also enhances user experience by allowing users to interact with your application in their native language.
 
 Here's my go to internationalization package: [i18next](https://www.i18next.com/).
 
@@ -69,3 +69,9 @@ function HomePage() {
 export default HomePage;
 
 ```
+
+## Recommended Reading
+
+For a deeper insight into internationalization technique, these articles really helped me:
+
+1. [Netflix Localization](https://netflixtechblog.medium.com/now-streaming-in-your-language-the-technology-behind-netflixs-global-interface-e0c732c69b16)
