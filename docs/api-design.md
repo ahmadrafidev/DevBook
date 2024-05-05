@@ -24,14 +24,14 @@ The shift to **GraphQL** has been a game-changer, especially for complex systems
 Designing APIs involves more than just understanding the technicalities; it's about creating an interface that is intuitive, efficient, and maintainable. Here are some best practices I follow, with examples to illustrate:
 
 #### 1. Use RESTful Principles
-
-   - **Consistency**: Use standard HTTP methods consistently. For instance, always use `GET` for retrieving resources, `POST` for creating new resources, `PUT` for updating resources, and `DELETE` for deleting them.
-   - **Example**: To retrieve user data, your endpoint should look like `GET /users/{id}`.
+  
+  - **Consistency**: Use standard HTTP methods consistently. For instance, always use `GET` for retrieving resources, `POST` for creating new resources, `PUT` for updating resources, and `DELETE` for deleting them.
+  - **Example**: To retrieve user data, your endpoint should look like `GET /users/{id}`.
 
 #### 2. Meaningful Endpoint Naming
 
-   - **Clear and Descriptive**: Name endpoints based on resources and avoid verbs. Resources should be nouns and plural.
-   - **Example**: To get a list of users, use `/users` instead of `/getUser`.
+  - **Clear and Descriptive**: Name endpoints based on resources and avoid verbs. Resources should be nouns and plural.
+  - **Example**: To get a list of users, use `/users` instead of `/getUser`.
 
 #### 3. Utilize HTTP Status Codes
 
@@ -81,5 +81,6 @@ Testing is non-negotiable if I want my APIs to be reliable. Here’s my testing 
 
 ## Recommended Reading
 
-Some articles that really help me to understand better about how to build a robust API
+Some articles that really help me to understand better about how to build a robust API:
 
+1. [API Design by Doordash](https://doordash.engineering/2021/01/07/api-design-platform-optimization/)
