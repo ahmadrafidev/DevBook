@@ -52,7 +52,9 @@ Using a **load balancer** to distribute incoming traffic across multiple servers
 - **Minify resources**: I minify JavaScript, CSS, and HTML to reduce their size which improves load times. 
 - **Optimize images**: Compressing images without losing quality helps a lot.
 
-## Front-end Optimization - Prioritize and Streamline
+One of the best practices to implement resource minimization is to use webpack or bundler like [Webpack](https://webpack.js.org/concepts/) or [Turbopack](https://turbo.build/pack/docs).
+
+## Front-end Optimization
 
 **The front end is where users interact with my app**, so it’s got to be really fast:
 
@@ -66,4 +68,18 @@ Here is to more about this section [Rendering Strategy](rendering.md).
 Check out these cool articles about performance:
 
 1. [Composite metrics for measure performance](https://engineering.indeedblog.com/blog/2024/01/composite-web-performance-metric/)
+
+
+## Nice References
+
+1. Refactoring
+   1. [Refactoring Guru](https://refactoring.guru/refactoring/techniques)
+2. Asynchronous Programming
+   1. [Asynchronous by Mozilla](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
+   2. [Asynchronous by MSFT](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)
+3. Coroutines
+   1. [Kotlin Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)
+   2. [Kotlin Coroutines in Android](https://developer.android.com/kotlin/coroutines)
+4. Golang concurrency
+   1. [Effective Go Docs](https://go.dev/doc/effective_go#concurrency)
 
