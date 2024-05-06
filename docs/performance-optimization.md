@@ -82,4 +82,6 @@ Check out these cool articles about performance:
    2. [Kotlin Coroutines in Android](https://developer.android.com/kotlin/coroutines)
 4. Golang concurrency
    1. [Effective Go Docs](https://go.dev/doc/effective_go#concurrency)
+5. Frontend Optimization with Rendering
+   1. [ReactJS Rendering Patterns](https://www.patterns.dev/react)
 
