@@ -71,6 +71,8 @@ Good documentation is as crucial as the API itself. It’s the bridge between my
 - **Clarity and Completeness**: I make sure that every endpoint is documented with possible requests, responses, and errors explained.
 - **Examples**: I include plenty of examples, as they are invaluable for developers trying to understand how to use the API.
 
+One of the great ways to do API Documentation is using [Swagger](https://swagger.io/).
+
 ## API Testing
 
 Testing is non-negotiable if I want my APIs to be reliable. Here’s my testing strategy:
@@ -84,3 +86,10 @@ Testing is non-negotiable if I want my APIs to be reliable. Here’s my testing 
 Some articles that really help me to understand better about how to build a robust API:
 
 1. [API Design by Doordash](https://doordash.engineering/2021/01/07/api-design-platform-optimization/)
+2. [API Handbook by Open API](https://learn.openapis.org/introduction.html)
+
+## Best Practices API Design from many companies
+
+Below is a great resource for creating design APIs, arguably best practices from various types of big tech companies:
+
+[API Stylebook Guideline](https://apistylebook.com/design/guidelines/)
