@@ -81,6 +81,10 @@ Testing is non-negotiable if I want my APIs to be reliable. Here’s my testing 
 - **Postman**: This tool is a staple for manual API testing. It allows me to quickly send requests to the API, examine the output, and even automate some tests.
 - **Monitoring**: I use tools like New Relic to monitor the API in production. It helps me catch issues before they affect users.
 
+Here are the tools that I found useful when doing API Testing:
+1. The holy grail [Postman](https://www.postman.com/)
+2. [Katalon Studio](https://katalon.com/api-testing)
+
 ## Recommended Reading
 
 Some articles that really help me to understand better about how to build a robust API:

@@ -31,6 +31,9 @@ Here is to more about this section [Monitoring and Logging tools](monitoring-and
 - **Server-side caching**: Saves data on the server to avoid hitting the database for every request.
 - **CDNs (Content Delivery Networks)**: These are great for caching static resources near users to improve load times massively.
 
+Tools I've used:
+1. [Client-side caching with Redis](https://redis.io/docs/latest/develop/use/client-side-caching/)
+
 ## Database Optimization
 
 **Efficiently managing the database** can make a big difference:
@@ -44,6 +47,9 @@ Using a **load balancer** to distribute incoming traffic across multiple servers
 
 - **Decreases the burden on any single server**, and provides redundancy, which is great for application availability and reliability.
 - **Efficiently allocates requests** to servers based on current load, optimizing resource use and maximizing throughput.
+
+One of the best technology I've used to implement load balancing:
+1. [Nginx](https://www.nginx.com/)
 
 ## Resource Minimization
 
@@ -68,6 +74,7 @@ Here is to more about this section [Rendering Strategy](rendering.md).
 Check out these cool articles about performance:
 
 1. [Composite metrics for measure performance](https://engineering.indeedblog.com/blog/2024/01/composite-web-performance-metric/)
+2. [FE Latency Numbers by Vercel CTO](https://vercel.com/blog/latency-numbers-every-web-developer-should-know)
 
 
 ## Nice References
