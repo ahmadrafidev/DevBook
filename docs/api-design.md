@@ -4,7 +4,7 @@ sidebar_position: 20
 
 # API 
 
-In my journey as a software engineer, APIs (Application Programming Interfaces) have been a cornerstone for building interoperable software systems. They are the channels through which different software components communicate and exchange data. Creating a well-designed API not only facilitates seamless integration but also ensures that your application can grow and adapt over time without major disruptions. Here are my notes on developing an API from start to finish.
+In my journey as a software engineer, APIs (Application Programming Interfaces) have been a cornerstone for building interoperable software systems. They are the channels through which different software components communicate and exchange data. Creating a well-designed API not only facilitates seamless integration but also ensures that your application can grow and adapt over time without major disruptions. Here are my notes on developing an API from start to finish, from ideation to production.
 
 ## API Design
 
@@ -12,9 +12,9 @@ When I started designing APIs, I realized it's not just about sending and receiv
 
 - **RESTful Principles**: These are my go-to for most projects. I ensure to use the correct HTTP methods and status codes to make the API intuitive.
 - **Endpoints Naming**: I keep the names clear and consistent. For example, `/users` for accessing user data.
-- **Security**: From the start, I implement OAuth for authentication and ensure that all data transfers are encrypted.
+- **Security**: From the start, I implement Auth (such as OAuth) for authentication and ensure that all data transfers are encrypted.
 
-The shift to **GraphQL** has been a game-changer, especially for complex systems:
+Then, the shift to **GraphQL** has been a game-changer for me, especially for complex systems, because of:
 
 - **Single Endpoint Flexibility**: One endpoint to handle various requests has simplified my designs.
 - **Custom Queries**: Allowing clients to request exactly what they need and nothing more optimizes the bandwidth and processing time.
