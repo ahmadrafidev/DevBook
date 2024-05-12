@@ -17,6 +17,9 @@ For me, code review is a critical phase in software development where the qualit
 
 
 ## Code Review References
+
 Here I got several references or articles from big tech companies about how they do a code review:
+
 1. [Yelp's Code Review Guideline](https://engineeringblog.yelp.com/2017/11/code-review-guidelines.html)
 2. [Meta Code Review](https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/)
+3. [Google Code Review](https://graphite.dev/blog/how-google-does-code-review)
