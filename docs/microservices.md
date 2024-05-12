@@ -5,9 +5,11 @@ sidebar_position: 8
 # Microservices
 
 ## Introduction
+
 In recent years, microservices have emerged as an important architectural style that significantly improves the scalability, flexibility, and speed of application delivery. Unlike its predecessor monolithic architecture, where all components are interconnected, microservices break down applications into smaller, interconnected services that operate independently. Posting my experience here will tell you why I use microservices.
 
 ## Philosophy
+
 The first and foremost, why microservices?
 
 1. **Decentralization**: Emphasizes the distribution of data and processes across multiple services, enhancing agility and enabling independent service management.
