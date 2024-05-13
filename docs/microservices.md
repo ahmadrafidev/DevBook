@@ -33,3 +33,9 @@ The first and foremost, why microservices?
 3. Monitoring and Maintenance
    1. Monitoring Tools: Integrate tools such as Prometheus for monitoring and Grafana for visualization to maintain insight into the operations and health of services. Read more [Monitoring and Logging](monitoring-and-logging.md)
    2. Distributed Tracing: Apply tools like New Relic, Datadog, Helios, or Splunk to enable distributed tracing. This helps in understanding the behavior of complex interactions across microservices and quickly pinpointing failures or bottlenecks. Read more [Monitoring and Logging](monitoring-and-logging.md)
+
+## Recommended Reading
+
+1. [Netflix Video Processing Microservices](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359)
+2. [Beyond REST Netflix](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
+3. [Distributed Tracing Infra by Netflix](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)

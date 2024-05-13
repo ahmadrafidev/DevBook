@@ -10,5 +10,4 @@ However, I welcome everyone to explore the contents of this site. Here, you'll f
 
 Anyway, thanks for dropping by!
 
-Side note:
 Let's connect with me through [X (fka Twitter)](https://twitter.com/ahmadrafiwirana)
