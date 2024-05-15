@@ -91,6 +91,7 @@ Some articles that really help me to understand better about how to build a robu
 
 1. [API Design by Doordash](https://doordash.engineering/2021/01/07/api-design-platform-optimization/)
 2. [API Handbook by Open API](https://learn.openapis.org/introduction.html)
+3. [API Rate Limiter by Stripe](https://stripe.com/blog/rate-limiters)
 
 ## Best Practices API Design from many companies
 

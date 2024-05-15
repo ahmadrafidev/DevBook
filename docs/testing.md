@@ -79,6 +79,8 @@ For further exploration of testing techniques, I recommend the following resourc
 2. [Autonomous Testing at Meta](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/)
 3. [Effective Test Pipeline by Airbnb](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)
 4. [Selective Testing by Agoda](https://medium.com/agoda-engineering/optimizing-ci-cd-processes-with-selective-testing-f537f9abc9d3)
+5. [Load Testing by Spotify](https://engineering.atspotify.com/2023/03/load-testing-for-2022-wrapped/)
+6. [Integration Test at Twitter](https://blog.x.com/engineering/en_us/topics/infrastructure/2019/integrationtestsatscale)
 
 ## My go-to tools for testing
 
