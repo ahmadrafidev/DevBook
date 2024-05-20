@@ -76,7 +76,6 @@ Check out these cool articles about performance:
 1. [Composite metrics for measure performance](https://engineering.indeedblog.com/blog/2024/01/composite-web-performance-metric/)
 2. [FE Latency Numbers by Vercel CTO](https://vercel.com/blog/latency-numbers-every-web-developer-should-know)
 
-
 ## Nice References
 
 1. Refactoring
@@ -92,3 +91,7 @@ Check out these cool articles about performance:
 5. Frontend Optimization with Rendering
    1. [ReactJS Rendering Patterns](https://www.patterns.dev/react)
 
+## Tools 
+
+1. Web:
+   1. [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview)
