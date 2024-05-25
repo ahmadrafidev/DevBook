@@ -33,3 +33,7 @@ In my journey through software engineering, I've learned that effective deployme
 1. [Blue-Green Deployment (Vercel)](https://vercel.com/blog/releasing-safe-and-cost-efficient-blue-green-deployments)
 2. [Type of Software Releases](https://blog.christianposta.com/deploy/blue-green-deployments-a-b-testing-and-canary-releases/)
 3. [Blue-green Deployment (Martin Fowler)](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+
+## Nice to have tools
+
+1. [Vercel Feature Flags](https://vercel.com/docs/workflow-collaboration/feature-flags)
