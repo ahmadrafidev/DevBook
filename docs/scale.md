@@ -47,3 +47,4 @@ To further explore and enhance my understanding of scalability, I often visiting
 2. [Unlocking performance, scalability, and cost-efficiency](https://blog.zomato.com/switching-from-tidb-to-dynamodb)
 3. [Scaling to Count Billions](https://www.canva.dev/blog/engineering/scaling-to-count-billions/)
 4. [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
+5. [Twitter (X) Sparrow](https://blog.x.com/engineering/en_us/topics/infrastructure/2022/twitter-sparrow-tackles-data-storage-challenges-of-scale)
