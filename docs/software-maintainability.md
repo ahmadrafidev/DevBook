@@ -29,3 +29,13 @@ I am referencing to this [documentation docs](documentation.md).
 ## Scalability
 
 [Scalability docs](scale.md).
+
+## Recommended Reading
+
+### Code Quality
+
+1. [Improving Code Quality by LY - 1](https://techblog.lycorp.co.jp/en/20240422a)
+2. [Improving Code Quality by LY - 2](https://techblog.lycorp.co.jp/en/20240507b)
+3. [Improving Code Quality by LY - 3](https://techblog.lycorp.co.jp/en/20240513b)
+4. [Improving Code Quality by LY - 4](https://techblog.lycorp.co.jp/en/20240520b)
+5. [Improving Code Quality by LY - 5](https://techblog.lycorp.co.jp/en/20240527b)
