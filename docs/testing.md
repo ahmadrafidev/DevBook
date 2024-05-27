@@ -81,9 +81,11 @@ For further exploration of testing techniques, I recommend the following resourc
 4. [Selective Testing by Agoda](https://medium.com/agoda-engineering/optimizing-ci-cd-processes-with-selective-testing-f537f9abc9d3)
 5. [Load Testing by Spotify](https://engineering.atspotify.com/2023/03/load-testing-for-2022-wrapped/)
 6. [Integration Test at Twitter](https://blog.x.com/engineering/en_us/topics/infrastructure/2019/integrationtestsatscale)
+7. [Preseeding Run Test](https://www.rippling.com/blog/preseeding-faster-way-to-run-tests)
 
 ## My go-to tools for testing
 
 1. [Jest](https://jestjs.io/)
 2. [Cypress](https://www.cypress.io/)
 3. [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+4. [PyTest](https://docs.pytest.org/en/8.1.x/)
