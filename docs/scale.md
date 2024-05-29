@@ -18,7 +18,7 @@ The first thing I have to do to identify a system that has reached its breaking 
 
 Horizontal scaling, or scaling out, involves adding more nodes (like servers) to spread out the load. This method is intriguing because it allows systems to handle more traffic by simply adding more resources.
 
-### Benefits and Challenges
+### Benefits and Challenges of Horizontal Scaling
 
 1. Flexibility:  Add more servers as needed, which is great for handling unexpected surges in traffic.
 2. High Complexity: With more servers, the network becomes more complex to manage, like distributed systems.
@@ -31,7 +31,7 @@ Horizontal scaling, or scaling out, involves adding more nodes (like servers) to
 
 Vertical scaling or scaling up is about beefing up existing servers or nodes. It's about making a single machine more powerful rather than adding more machines like horizontal scaling.
 
-### Benefits and Challenges
+### Benefits and Challenges of Vertical Scaling
 
 1. Ease of Implementation: It’s simpler as it involves only upgrading existing components like CPU or memory.
 2. Physical Limits: Every server has a maximum upgrade limit, and sometimes, upgrading can require downtime, which isn’t ideal for 24/7 services.
@@ -48,3 +48,9 @@ To further explore and enhance my understanding of scalability, I often visiting
 3. [Scaling to Count Billions](https://www.canva.dev/blog/engineering/scaling-to-count-billions/)
 4. [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
 5. [Twitter (X) Sparrow](https://blog.x.com/engineering/en_us/topics/infrastructure/2022/twitter-sparrow-tackles-data-storage-challenges-of-scale)
+
+## Recommended Talks
+
+Below I found a very useful talk on the topic of scale:
+
+1. [Principles for Scaling Frontend Application Development](https://www.youtube.com/watch?v=tqhLK0Fb5_4)
