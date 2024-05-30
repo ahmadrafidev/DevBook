@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Rafi's Notes",
-  tagline: 'My Software Engineering Learning Journey',
+  title: "DevBook",
+  tagline: 'A digital space where I store all my learning in tech',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
