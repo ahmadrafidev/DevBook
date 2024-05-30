@@ -9,3 +9,4 @@ sidebar_position: 23
 My best curated articles about doing security in software engineering:
 
 1. [How Figma Securing Internal Web Apps](https://www.figma.com/blog/inside-figma-securing-internal-web-apps/)
+2. [Security at Speed](https://www.figma.com/blog/our-approach-to-security-at-speed/)

@@ -30,3 +30,4 @@ To implement my learning about UI, UX, Design Engineer, Design System, right now
 
 1. [Design system tips by Myntra](https://medium.com/myntra-engineering/design-system-in-action-at-myntra-tips-for-designers-and-developers-82b0ead11fc5)
 2. [What is Design System by Figma](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
+3. [How to Structure Design System](https://www.figma.com/blog/how-thumbtack-structures-their-design-system/)
