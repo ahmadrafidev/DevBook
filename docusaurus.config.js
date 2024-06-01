@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://ahmadrafidev-learning.vercel.app/',
+  url: 'https://devnook.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ahmadrafidev', // Usually your GitHub org/user name.
-  projectName: 'ahmadrafidev-learning', // Usually your repo name.
+  projectName: 'DevBook', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ahmadrafidev/ahmadrafidev-learning/blob/master',
+            'https://github.com/ahmadrafidev/DevBook/tree/master/docs',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ahmadrafidev/ahmadrafidev-learning/blob/master',
+            'https://github.com/ahmadrafidev/DevBook/tree/master/blog',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: "Rafi's Notes",
+        title: "DevBook",
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -137,7 +137,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus. Customized by Me.`,
+        copyright: `Copyright © ${new Date().getFullYear()} DevBook. Built with Docusaurus. Customized by Rafi.`,
       },
       prism: {
         theme: prismThemes.github,
