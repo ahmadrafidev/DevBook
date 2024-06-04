@@ -82,6 +82,7 @@ For further exploration of testing techniques, I recommend the following resourc
 5. [Load Testing by Spotify](https://engineering.atspotify.com/2023/03/load-testing-for-2022-wrapped/)
 6. [Integration Test at Twitter](https://blog.x.com/engineering/en_us/topics/infrastructure/2019/integrationtestsatscale)
 7. [Preseeding Run Test](https://www.rippling.com/blog/preseeding-faster-way-to-run-tests)
+8. [Grab Quality Testing](https://engineering.grab.com/evolution-of-quality)
 
 ## My go-to tools for testing
 
