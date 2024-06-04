@@ -76,6 +76,7 @@ Check out these cool articles about performance:
 1. [Composite metrics for measure performance](https://engineering.indeedblog.com/blog/2024/01/composite-web-performance-metric/)
 2. [FE Latency Numbers by Vercel CTO](https://vercel.com/blog/latency-numbers-every-web-developer-should-know)
 3. [Speeding up File Load Times](https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/)
+4. [Bundle Size Analyzer by Grab](https://engineering.grab.com/grabfood-bundle-size)
 
 ## Nice References
 

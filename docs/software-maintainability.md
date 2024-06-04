@@ -32,6 +32,8 @@ I am referencing to this [documentation docs](documentation.md).
 
 ## Recommended Reading
 
+1. [App Modularisation by Grab](https://engineering.grab.com/app-modularisation-at-scale)
+
 ### Code Quality
 
 1. [Improving Code Quality by LY - 1](https://techblog.lycorp.co.jp/en/20240422a)

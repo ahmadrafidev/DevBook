@@ -73,3 +73,7 @@ In my career I have used various tools for documentation, listed here in no part
 3. [Github Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis): It provides a structured way to organize documentation with each repository hosting its own documentation, thereby enhancing accessibility and organization.
 4. [Notion](https://www.notion.so/product): For me, Notion is favored for its customizable templates, straightforward interface, and robust third-party integration capabilities.
 5. [Docusaurus](https://docusaurus.io/): Specifically designed for open-source software documentation, it features an easy-to-navigate standard template.
+
+## Recommended Reading
+
+1. [Doc as Code by Grab](https://engineering.grab.com/doc-as-code)
