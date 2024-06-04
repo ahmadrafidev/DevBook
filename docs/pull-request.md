@@ -71,3 +71,8 @@ None.
 
 Apart from the PR template above, this PR template is also good to implement because it is simple and to the point regarding the changes we make to the codebase:
 1. [Diff (or PR) Template](https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit)
+
+
+## Recommended Reading 
+
+1. [Merge Request at Ramp](https://engineering.ramp.com/merge-queues)
