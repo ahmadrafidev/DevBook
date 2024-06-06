@@ -33,6 +33,7 @@ I am referencing to this [documentation docs](documentation.md).
 ## Recommended Reading
 
 1. [App Modularisation by Grab](https://engineering.grab.com/app-modularisation-at-scale)
+2. [Flutter app Modularisation by Evermos](https://medium.com/evermos-tech/this-is-how-i-maximize-the-benefit-of-flutter-modularization-243638af387d)
 
 ### Code Quality
 
