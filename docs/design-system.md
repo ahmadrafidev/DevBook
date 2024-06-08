@@ -32,4 +32,4 @@ To implement my learning about UI, UX, Design Engineer, Design System, right now
 2. [What is Design System by Figma](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
 3. [How to Structure Design System](https://www.figma.com/blog/how-thumbtack-structures-their-design-system/)
 4. [Bootstrapping UI Component by Ramp](https://engineering.ramp.com/bootstrapping-a-ui-component-library)
-5. [(Design System by Mercari (DevDojo)](https://speakerdeck.com/mercari/devdojo-mercari-design-system-for-mobile-2024?slide=20)
+5. [Design System by Mercari (DevDojo)](https://speakerdeck.com/mercari/devdojo-mercari-design-system-for-mobile-2024?slide=20)

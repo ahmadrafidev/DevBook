@@ -87,7 +87,7 @@ For further exploration of testing techniques, I recommend the following resourc
 ## Recommended Talks
 
 1. [Quality Assurance at Mercari (DevDojo)](https://www.youtube.com/watch?v=fAlvDxUHSro)
-2. 
+
 ## My go-to tools for testing
 
 1. [Jest](https://jestjs.io/)
