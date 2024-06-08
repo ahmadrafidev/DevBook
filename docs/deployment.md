@@ -35,6 +35,10 @@ In my journey through software engineering, I've learned that effective deployme
 3. [Blue-green Deployment (Martin Fowler)](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 4. [Safer Deployment by Grab](https://engineering.grab.com/safer-flink-deployments)
 
+## Recommended Talks
+
+1. [Shipping Code Faster by Mercari (DevDojo)](https://www.youtube.com/watch?v=iCVfIQlbrDo)
+
 ## Nice to have tools
 
 1. [Vercel Feature Flags](https://vercel.com/docs/workflow-collaboration/feature-flags)

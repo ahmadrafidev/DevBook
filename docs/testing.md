@@ -84,6 +84,10 @@ For further exploration of testing techniques, I recommend the following resourc
 7. [Preseeding Run Test](https://www.rippling.com/blog/preseeding-faster-way-to-run-tests)
 8. [Grab Quality Testing](https://engineering.grab.com/evolution-of-quality)
 
+## Recommended Talks
+
+1. [Quality Assurance at Mercari (DevDojo)](https://www.youtube.com/watch?v=fAlvDxUHSro)
+2. 
 ## My go-to tools for testing
 
 1. [Jest](https://jestjs.io/)
