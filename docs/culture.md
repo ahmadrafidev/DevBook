@@ -11,3 +11,4 @@ Here is a list of articles that really moved me about doing engineering culture:
 
 1. [Quality Week at Rippling](https://www.rippling.com/blog/quality-week)
 2. [Engineering Principles at Ramp](https://engineering.ramp.com/engineering-principles)
+3. [Figma Engineering Values](https://www.figma.com/blog/figmas-engineering-values/)
