@@ -104,4 +104,11 @@ I found this article useful on all about monitoring and logging.
 
 1. [Benefit of using monitoring tools](https://thefrugalarchitect.com/laws/unobserved-systems-lead-to-unknown-costs.html)
 2. [How to Instrument Your Service](https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/)
-3. [Error Message at DeliveryHero](https://tech.deliveryhero.com/enhancing-error-messages-for-a-smoother-rider-app-experience/)
+
+
+### All about Error Message
+
+1. [Error Message at DeliveryHero](https://tech.deliveryhero.com/enhancing-error-messages-for-a-smoother-rider-app-experience/)
+2. [Error Message Guideline by NN Group](https://www.nngroup.com/articles/error-message-guidelines/)
+3. [Write better Error Message](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
+4. [How to write any Error Message](https://medium.com/deliveroo-design/how-to-write-any-error-message-7a3348cce594)
