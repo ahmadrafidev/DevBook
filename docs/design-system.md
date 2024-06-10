@@ -13,7 +13,7 @@ sidebar_position: 21
 
 ## What I'm Building
 
-To implement my learning about UI, UX, Design Engineer, Design System, right now I'm building what I called [Astra](https://github.com/ahmadrafidev/astra): a digital vault for UI components. Astra will contains many components and behind the scenes principles that can be a foundational building blocks of UI on every platform, such as web, android, and ios. 
+To implement my learning about UI, UX, Design Engineer, Design System, right now I'm building a design system what I called [Astra UI](https://github.com/ahmadrafidev/astra): a digital vault for UI components. Astra UI will contains many components and behind the scenes principles that can be a foundational building blocks of UI on every platform, such as web, android, and ios. 
 
 ## Inspiration
 
@@ -25,6 +25,7 @@ To implement my learning about UI, UX, Design Engineer, Design System, right now
 6. [Fluent 2 by MSFT](https://fluent2.microsoft.design/components/web/react)
 7. [Geist by Vercel](https://vercel.com/geist/introduction)
 8. [Radix UI](https://www.radix-ui.com/)
+9. [Gestalt](https://gestalt.pinterest.systems/home)
 
 ## Recommended Reading
 
