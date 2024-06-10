@@ -32,6 +32,7 @@ Here is to more about this section [Monitoring and Logging tools](monitoring-and
 - **CDNs (Content Delivery Networks)**: These are great for caching static resources near users to improve load times massively.
 
 Tools I've used:
+
 1. [Client-side caching with Redis](https://redis.io/docs/latest/develop/use/client-side-caching/)
 
 ## Database Optimization
