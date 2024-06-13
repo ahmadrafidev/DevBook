@@ -55,3 +55,4 @@ Below I found a very useful talk on the topic of scale:
 
 1. [Principles for Scaling Frontend Application Development](https://www.youtube.com/watch?v=tqhLK0Fb5_4)
 2. [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)
+3. [Scaling Facebook Live](https://www.youtube.com/watch?v=IO4teCbHvZw)
