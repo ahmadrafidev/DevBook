@@ -14,3 +14,4 @@ My best curated articles about doing security in software engineering:
 4. [Biometric Auth by Gray](https://engineering.grab.com/biometrics-authentication)
 5. [E2E Encryption at Dropbox](https://dropbox.tech/security/end-to-end-encryption-for-dropbox-teams)
 6. [Security and Speed at Figma](https://www.figma.com/blog/our-approach-to-security-at-speed/)
+7. [Facial Recognition at Grab](https://engineering.grab.com/facial-recognition)
