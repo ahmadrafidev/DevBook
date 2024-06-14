@@ -15,3 +15,5 @@ sidebar_position: 27
 3. [Product Ideation](https://medium.com/@myskill.id/product-ideation-8f14de1ac653)
 4. [Understanding Business Model](https://medium.com/@myskill.id/understanding-business-model-0aa1d031d967)
 5. [Problem and Product Discovery](https://medium.com/@myskill.id/problem-and-product-discovery-c0775be7f0c0)
+6. [Solution Development as a PM](https://medium.com/@myskill.id/solution-development-and-prioritization-8285a2a3f7d6)
+7. [Product Testing and Verification](https://medium.com/@myskill.id/product-testing-and-verification-dde14cc7b055)
