@@ -17,3 +17,4 @@ sidebar_position: 27
 5. [Problem and Product Discovery](https://medium.com/@myskill.id/problem-and-product-discovery-c0775be7f0c0)
 6. [Solution Development as a PM](https://medium.com/@myskill.id/solution-development-and-prioritization-8285a2a3f7d6)
 7. [Product Testing and Verification](https://medium.com/@myskill.id/product-testing-and-verification-dde14cc7b055)
+8. [How to do Product Research](https://medium.com/@myskill.id/product-research-f79164970ef9)
