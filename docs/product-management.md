@@ -19,3 +19,4 @@ sidebar_position: 27
 7. [Product Testing and Verification](https://medium.com/@myskill.id/product-testing-and-verification-dde14cc7b055)
 8. [How to do Product Research](https://medium.com/@myskill.id/product-research-f79164970ef9)
 9. [Product Market Fit](https://medium.com/@myskill.id/product-market-fit-4db0adf376b1)
+10. [Product Strategy](https://medium.com/@myskill.id/product-strategy-905c0fdc0616)
