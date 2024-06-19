@@ -23,4 +23,5 @@ sidebar_position: 27
 11. [Product Roadmap](https://medium.com/@myskill.id/creating-product-roadmap-bd48470d8082)
 12. [OKR and Product Metrics](https://medium.com/@myskill.id/okr-and-product-metrics-6e6d818ed570)
 13. [Product Analytics](https://medium.com/@myskill.id/product-analytics-75f1e246ef5d)
-14. [How to develop product features](https://medium.com/@myskill.id/developing-product-features-c61b81bb3c4b)
+14. [Product Features](https://medium.com/@myskill.id/developing-product-features-c61b81bb3c4b)
+15. [Product Growth](https://medium.com/@myskill.id/introduction-to-product-growth-58d389458371)
