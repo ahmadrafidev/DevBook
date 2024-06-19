@@ -21,3 +21,4 @@ sidebar_position: 27
 9. [Product Market Fit](https://medium.com/@myskill.id/product-market-fit-4db0adf376b1)
 10. [Product Strategy](https://medium.com/@myskill.id/product-strategy-905c0fdc0616)
 11. [Product Roadmap](https://medium.com/@myskill.id/creating-product-roadmap-bd48470d8082)
+12. [OKR and Product Metrics](https://medium.com/@myskill.id/okr-and-product-metrics-6e6d818ed570)
