@@ -26,3 +26,4 @@ sidebar_position: 27
 14. [Product Features](https://medium.com/@myskill.id/developing-product-features-c61b81bb3c4b)
 15. [Product Growth](https://medium.com/@myskill.id/introduction-to-product-growth-58d389458371)
 16. [Growth Model](https://medium.com/@myskill.id/building-growth-model-9b9e841a19dd)
+17. [Growth Forecast and Planning](https://medium.com/@myskill.id/growth-forecast-and-planning-ff3d28d9b953)
