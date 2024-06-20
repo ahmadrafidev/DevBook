@@ -8,6 +8,8 @@ sidebar_position: 27
 
 ### English 
 
+1. [Silicon Valley Product Group - Articles content](https://www.svpg.com/articles/)
+
 ### Bahasa Indonesia
 
 1. [Product Development Lifecycle](https://medium.com/@myskill.id/product-development-lifecycle-8ed830d9b7b5)
