@@ -36,5 +36,6 @@ sidebar_position: 27
 22. [Growth Forecast and Planning](https://medium.com/@myskill.id/growth-forecast-and-planning-ff3d28d9b953)
 23. [Customer Acquisition](https://medium.com/@myskill.id/customer-acquisition-basics-80ddc975a252)
 24. [Product-led Acquisition](https://medium.com/@myskill.id/product-led-acquisition-7e0aad5b9614)
-25. [Improving Product Engagement](https://medium.com/@myskill.id/improving-product-engagement-54c12ac24761)
-26. [Churs User and Resurrection](https://medium.com/@myskill.id/churn-user-resurrection-f2ca62634716)
+25. [Customer Retention](https://medium.com/@myskill.id/customer-retention-basics-d542ef32be09)
+26. [Improving Product Engagement](https://medium.com/@myskill.id/improving-product-engagement-54c12ac24761)
+27. [Churs User and Resurrection](https://medium.com/@myskill.id/churn-user-resurrection-f2ca62634716)
