@@ -35,3 +35,4 @@ sidebar_position: 27
 21. [Growth Model](https://medium.com/@myskill.id/building-growth-model-9b9e841a19dd)
 22. [Growth Forecast and Planning](https://medium.com/@myskill.id/growth-forecast-and-planning-ff3d28d9b953)
 23. [Customer Acquisition](https://medium.com/@myskill.id/customer-acquisition-basics-80ddc975a252)
+24. [Product-led Acquisition](https://medium.com/@myskill.id/product-led-acquisition-7e0aad5b9614)
