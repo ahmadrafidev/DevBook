@@ -35,6 +35,7 @@ I am referencing to this [documentation docs](documentation.md).
 1. [App Modularisation by Grab](https://engineering.grab.com/app-modularisation-at-scale)
 2. [Flutter app Modularisation by Evermos](https://medium.com/evermos-tech/this-is-how-i-maximize-the-benefit-of-flutter-modularization-243638af387d)
 3. [Redesigning Pinterest Ad System](https://medium.com/pinterest-engineering/redesigning-pinterests-ad-serving-systems-with-zero-downtime-3253d2432a0c)
+4. [Code as a Documentation](https://www.martinfowler.com/bliki/CodeAsDocumentation.html)
 
 ### Code Quality
 
