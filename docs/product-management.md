@@ -39,3 +39,7 @@ sidebar_position: 27
 25. [Customer Retention](https://medium.com/@myskill.id/customer-retention-basics-d542ef32be09)
 26. [Improving Product Engagement](https://medium.com/@myskill.id/improving-product-engagement-54c12ac24761)
 27. [Churs User and Resurrection](https://medium.com/@myskill.id/churn-user-resurrection-f2ca62634716)
+28. [Evaluate Model and Monetization Method](https://medium.com/@myskill.id/evaluate-model-and-monetization-method-d0c5c430f02b)
+29. [Arrange Plan and Iteration of Monetization Strategy](https://medium.com/@myskill.id/arrange-plan-and-iteration-of-monetization-strategy-f0e4aedbcd14)
+30. [A/B Testing Part 1](https://medium.com/@myskill.id/a-b-testing-experiment-part-1-783341fc597e)
+31. [A/B Testing Part 2](https://medium.com/@myskill.id/a-b-testing-experiment-part-2-f88e40348534)
