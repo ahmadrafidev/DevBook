@@ -37,3 +37,7 @@ Publisher-Subscriber is a pattern I learned about in an advanced software engine
 ## Distributed Architecture
 
 Distributed Architecture involves multiple software components located on different networked computers, which communicate and coordinate their actions by passing messages. I explored this complex topic in detail during my Distributed Systems course. The study of distributed systems provided me with valuable insights into fault tolerance, consistency, and scalability in complex systems. It was challenging but rewarding, enhancing my understanding of how to design systems that operate effectively across multiple platforms and environments.
+
+### Recommended Talks
+
+1. [Designing Services for Resilience @ Netflix](https://www.youtube.com/watch?v=RWyZkNzvC-c&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=198)

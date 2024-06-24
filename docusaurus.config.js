@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "DevBook",
-  tagline: 'A digital space where I store all my learning in tech',
+  tagline: 'A Digital Hub of My Tech Learning',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -114,8 +114,8 @@ const config = {
                 href: 'https://www.linkedin.com/in/ahmadrafiwirana/',
               },
               {
-                label: 'X (fka Twitter)',
-                href: 'https://twitter.com/ahmadrafiwirana',
+                label: 'X',
+                href: 'https://x.com/rafiwiranaa',
               },
               {
                 label: 'Medium',
