@@ -42,3 +42,4 @@ Distributed Architecture involves multiple software components located on differ
 
 1. [Designing Services for Resilience @ Netflix](https://www.youtube.com/watch?v=RWyZkNzvC-c&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=198)
 2. [Architecting a Modern Financial Institution @ Nubank](https://www.youtube.com/watch?v=VYuToviSx5Q&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=192)
+3. [Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=195)
