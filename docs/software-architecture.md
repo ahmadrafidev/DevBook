@@ -44,3 +44,4 @@ Distributed Architecture involves multiple software components located on differ
 2. [Architecting a Modern Financial Institution @ Nubank](https://www.youtube.com/watch?v=VYuToviSx5Q&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=192)
 3. [Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=195)
 4. [Real-Time & Personalized Notifications @Twitter](https://www.youtube.com/watch?v=pme_n2zQiDQ&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=175)
+5. [Airbnb Architecture at scale](https://www.youtube.com/watch?v=pnHiVFYpLzs&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=53)
