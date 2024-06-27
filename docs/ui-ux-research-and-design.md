@@ -6,6 +6,10 @@ sidebar_position: 29
 
 ## Recommended Reading
 
+## UX Design
+
+1. [UX Design Fundamental](https://medium.com/@myskill.id/ui-ux-design-fundamental-d30e7336a1c)
+
 ### UX Writing
 
 1. [UX Writing Intro](https://medium.com/@myskill.id/ux-writing-introduction-e8e46e532c25)
