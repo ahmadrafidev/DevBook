@@ -13,6 +13,10 @@ sidebar_position: 29
 3. [User Experience Factors](https://medium.com/@myskill.id/user-experience-factors-303a751a4338)
 4. [UX Design Process](https://medium.com/@myskill.id/ux-design-process-f337451fbf93)
 5. [Problem Identification & Prioritization](https://medium.com/@myskill.id/problem-identification-prioritization-be917c5f0288)
+6. [UX Ideation Process](https://medium.com/@myskill.id/ux-ideation-process-5072ed38e5fc)
+7. [Affinity Mapping and Information Architecture](https://medium.com/@myskill.id/affinity-mapping-and-information-architecture-11a2635e1dee)
+8. [Creating User Flow and User Journey Map](https://medium.com/@myskill.id/creating-user-flow-and-user-journey-map-bf77824fab3b)
+9. [Creating Low Fidelity Design](https://medium.com/@myskill.id/creating-low-fidelity-design-ec1adeb15a37)
 
 ### UX Writing
 
