@@ -45,3 +45,4 @@ Distributed Architecture involves multiple software components located on differ
 3. [Reddit Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=195)
 4. [Real-Time & Personalized Notifications @Twitter](https://www.youtube.com/watch?v=pme_n2zQiDQ&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=175)
 5. [Airbnb Architecture at scale](https://www.youtube.com/watch?v=pnHiVFYpLzs&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=53)
+6. [Netflix Play API - An Evolutionary Architecture](https://www.youtube.com/watch?v=6oPj-DW09DU&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=147)
