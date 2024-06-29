@@ -18,3 +18,4 @@ My best curated articles about distributed system concept:
 ## Recommended Talks
 
 1. [The Anatomy of a Distributed System](https://www.youtube.com/watch?v=1TIzPL4878Q&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=199)
+2. [Running a Massively Parallel Self serve Distributed Data System At Scale](https://www.youtube.com/watch?v=TrPvC7P8XjA&list=PLSECvWLlUYeEpDgUw5VtrhT-4LY7IVviU&index=5)
