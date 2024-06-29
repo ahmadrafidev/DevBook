@@ -17,6 +17,10 @@ sidebar_position: 29
 7. [Affinity Mapping and Information Architecture](https://medium.com/@myskill.id/affinity-mapping-and-information-architecture-11a2635e1dee)
 8. [Creating User Flow and User Journey Map](https://medium.com/@myskill.id/creating-user-flow-and-user-journey-map-bf77824fab3b)
 9. [Creating Low Fidelity Design](https://medium.com/@myskill.id/creating-low-fidelity-design-ec1adeb15a37)
+10. [Usability Testing](https://medium.com/@myskill.id/usability-testing-2c6bce4ee957)
+11. [Design Documentation](https://medium.com/@myskill.id/design-documentation-8aefac982c99)
+12. [UX Design Portfolio](https://medium.com/@myskill.id/ux-design-portfolio-8c825576aceb)
+13. [Creating A Low Fidelity Checkout Pages with Various Methods](https://medium.com/@myskill.id/creating-a-low-fidelity-checkout-pages-with-various-methods-0d1642b4bfa2)
 
 ### UX Writing
 
