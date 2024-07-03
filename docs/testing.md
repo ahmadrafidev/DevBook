@@ -95,3 +95,4 @@ For further exploration of testing techniques, I recommend the following resourc
 3. [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 4. [PyTest](https://docs.pytest.org/en/8.1.x/)
 5. [Playwright](https://playwright.dev/)
+6. [Vitest](https://vitest.dev/)
