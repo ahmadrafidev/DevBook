@@ -76,3 +76,4 @@ This PR template is also worth implementing because it is simple and to the poin
 ## Recommended Reading 
 
 1. [Merge Request at Ramp](https://engineering.ramp.com/merge-queues)
+2. [Pull Request at Resend](https://resend.com/handbook/engineering/how-we-review-pull-requests)
