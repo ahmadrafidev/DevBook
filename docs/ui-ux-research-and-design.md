@@ -48,7 +48,23 @@ sidebar_position: 29
 22. [What To Do After Doing a UX Research](https://medium.com/@myskill.id/what-to-do-after-doing-a-ux-research-930b546e1553)
 23. [Landing a Job as UX Research](https://medium.com/@myskill.id/landing-a-job-as-ux-research-bfced6b33166)
 
-### UX Writing
+
+## User Interface Design
+
+1. [UI Design Intro](https://medium.com/@myskill.id/ui-design-introduction-36565fd8fddf)
+2. [Design Elements](https://medium.com/@myskill.id/design-elements-e9dc0dc3607e)
+3. [Principles of UI Design](https://medium.com/@myskill.id/principle-of-ui-design-8e8315c7e73c)
+4. [Law in UI Design](https://medium.com/@myskill.id/law-in-ui-design-2d48fe786779)
+5. [Icon Design](https://medium.com/@myskill.id/icon-design-c47760b5b3ed)
+6. [Illustration Design](https://medium.com/@myskill.id/illustration-design-5d9b41994581)
+7. [Components in UI Design](https://medium.com/@myskill.id/components-in-ui-design-598e40cbca3b)
+8. [Designing Digital Platforms](https://medium.com/@myskill.id/designing-digital-platforms-c2a818f9340)
+9. [Creating Design System](https://medium.com/@myskill.id/creating-design-system-4fa69146a1c6)
+10. [UI Interaction and Animation](https://medium.com/@myskill.id/ui-interaction-and-animation-3b7c1447038c)
+11. [Design Process](https://medium.com/@myskill.id/design-process-using-figma-d2d7d1e169b2)
+12. [UI Design Documentation](https://medium.com/@myskill.id/ui-design-documentation-3669eaee779c)
+
+### User Experience Writing
 
 1. [UX Writing Intro](https://medium.com/@myskill.id/ux-writing-introduction-e8e46e532c25)
 2. [Tone of Voice in UX](https://medium.com/@myskill.id/tone-of-voice-in-ux-writing-154de88db349)
