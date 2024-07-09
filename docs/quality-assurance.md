@@ -16,3 +16,8 @@ sidebar_position: 31
 8. [Static Testing](https://medium.com/@myskill.id/static-testing-ed56ffb9a3ca)
 9. [Database Testing](https://medium.com/@myskill.id/database-testing-introduction-6a91a809c45c)
 10. [Query Database Testing](https://medium.com/@myskill.id/query-database-77d870e934a7)
+11. [Test Planning](https://medium.com/@myskill.id/test-planning-d463006fe934)
+12. [Test Organization](https://medium.com/@myskill.id/test-organization-07c2863ef7f5)
+13. [Test scenario and Test case](https://medium.com/@myskill.id/test-scenario-test-case-f54e0635f204)
+14. [Manage Test](https://medium.com/@myskill.id/manage-test-dengan-qase-io-fe8491a5fd7d)
+15. [Bug Advocate](https://medium.com/@myskill.id/bug-advocate-34280df1bbfb)
