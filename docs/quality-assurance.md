@@ -14,3 +14,5 @@ sidebar_position: 31
 6. [Test Design](https://medium.com/@myskill.id/test-design-d379fd0f616a)
 7. [Automation Testing](https://medium.com/@myskill.id/automation-testing-0fe1e19476cf)
 8. [Static Testing](https://medium.com/@myskill.id/static-testing-ed56ffb9a3ca)
+9. [Database Testing](https://medium.com/@myskill.id/database-testing-introduction-6a91a809c45c)
+10. [Query Database Testing](https://medium.com/@myskill.id/query-database-77d870e934a7)
