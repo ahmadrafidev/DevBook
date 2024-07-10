@@ -21,3 +21,7 @@ sidebar_position: 31
 13. [Test scenario and Test case](https://medium.com/@myskill.id/test-scenario-test-case-f54e0635f204)
 14. [Manage Test](https://medium.com/@myskill.id/manage-test-dengan-qase-io-fe8491a5fd7d)
 15. [Bug Advocate](https://medium.com/@myskill.id/bug-advocate-34280df1bbfb)
+16. [Non Functional Test : Performance Test](https://medium.com/@myskill.id/non-functional-test-performance-test-28b69f965800)
+17. [Non Functional Test : Security Test](https://medium.com/@myskill.id/non-functional-test-security-test-c4e76380b4ea)
+18. [JMeter](https://medium.com/@myskill.id/jmeter-8216ccaac1f4)
+19. [K6 Performance Test](https://medium.com/@myskill.id/k6-for-performance-test-716092f6e914)
