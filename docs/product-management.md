@@ -9,6 +9,7 @@ sidebar_position: 27
 ### English 
 
 1. [Silicon Valley Product Group - Articles content](https://www.svpg.com/articles/)
+2. [Project Estimation technique](https://asana.com/resources/project-estimation)
 
 ### Bahasa Indonesia
 
