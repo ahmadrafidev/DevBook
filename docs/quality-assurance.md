@@ -25,3 +25,6 @@ sidebar_position: 31
 17. [Non Functional Test : Security Test](https://medium.com/@myskill.id/non-functional-test-security-test-c4e76380b4ea)
 18. [JMeter](https://medium.com/@myskill.id/jmeter-8216ccaac1f4)
 19. [K6 Performance Test](https://medium.com/@myskill.id/k6-for-performance-test-716092f6e914)
+20. [CI/CD](https://medium.com/@myskill.id/continuous-integration-and-continuous-deployment-3bd7fcfb6a4c)
+21. [Postman Github Action](https://medium.com/@myskill.id/postman-github-action-409b478dfdb4)
+22. [Selenium Github Action](https://medium.com/@myskill.id/selenium-github-action-131c247b3454)
