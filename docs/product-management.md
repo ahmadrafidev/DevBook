@@ -56,3 +56,7 @@ sidebar_position: 27
 40. [Arrange Plan and Iteration of Monetization Strategy](https://medium.com/@myskill.id/arrange-plan-and-iteration-of-monetization-strategy-f0e4aedbcd14)
 41. [A/B Testing Part 1](https://medium.com/@myskill.id/a-b-testing-experiment-part-1-783341fc597e)
 42. [A/B Testing Part 2](https://medium.com/@myskill.id/a-b-testing-experiment-part-2-f88e40348534)
+
+## Recommended Talks
+
+1. [Reversed Engineering PMF by Superhuman CEO](https://maven.com/p/a12add/reverse-engineering-product-market-fit?email=ahmadrafi9910@gmail.com)
