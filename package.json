@@ -1,6 +1,6 @@
 {
-  "name": "ahmadrafidev-learning",
-  "version": "0.0.0",
+  "name": "devbook",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
