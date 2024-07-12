@@ -11,6 +11,7 @@ sidebar_position: 27
 1. [Silicon Valley Product Group - Articles content](https://www.svpg.com/articles/)
 2. [Project Estimation technique](https://asana.com/resources/project-estimation)
 3. [Shreyas Doshi's Product Almanac](https://www.productalmanac.com/)
+4. [Superhuman PMF](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/)
 
 ### Bahasa Indonesia
 
