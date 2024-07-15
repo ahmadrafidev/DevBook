@@ -79,6 +79,7 @@ Check out these cool articles about performance:
 3. [Speeding up File Load Times](https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/)
 4. [Bundle Size Analyzer by Grab](https://engineering.grab.com/grabfood-bundle-size)
 5. [WebAssembly at Figma](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
+6. [Why Speed Matters](https://web.dev/learn/performance/why-speed-matters)
 
 ## Nice References
 
