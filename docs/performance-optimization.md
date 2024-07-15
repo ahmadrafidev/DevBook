@@ -80,6 +80,7 @@ Check out these cool articles about performance:
 4. [Bundle Size Analyzer by Grab](https://engineering.grab.com/grabfood-bundle-size)
 5. [WebAssembly at Figma](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
 6. [Why Speed Matters](https://web.dev/learn/performance/why-speed-matters)
+7. [Shopping for Speed @ Ebay](https://web.dev/case-studies/shopping-for-speed-on-ebay)
 
 ## Nice References
 
