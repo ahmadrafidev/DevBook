@@ -39,3 +39,6 @@ sidebar_position: 31
 31. [PyTest](https://medium.com/@myskill.id/pytest-api-automation-ce57eeeaf35d)
 32. [JS API Automation](https://medium.com/@myskill.id/javascript-api-automation-f5f737be91c6)
 33. [Cypress API Test](https://medium.com/@myskill.id/cypress-api-test-24a9a60d081c)
+34. [Katalon API Test - 1](https://medium.com/@myskill.id/katalon-api-part-1-30f13ea63641)
+35. [Katalon API Test - 2](https://medium.com/@myskill.id/katalon-api-test-part-2-cc7c29b6c678)
+36. [Katalon Integration](https://medium.com/@myskill.id/katalon-integration-ea9ccbfd926f)
