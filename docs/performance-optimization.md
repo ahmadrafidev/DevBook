@@ -81,6 +81,7 @@ Check out these cool articles about performance:
 5. [WebAssembly at Figma](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
 6. [Why Speed Matters](https://web.dev/learn/performance/why-speed-matters)
 7. [Shopping for Speed @ Ebay](https://web.dev/case-studies/shopping-for-speed-on-ebay)
+8. [Speed By A Thousand Cuts](https://innovation.ebayinc.com/tech/engineering/speed-by-a-thousand-cuts/)
 
 ## Nice References
 
