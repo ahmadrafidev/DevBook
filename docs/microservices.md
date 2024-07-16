@@ -45,6 +45,6 @@ The first and foremost, why microservices?
 7. [GRIT: a Protocol for Distributed Transactions across Microservices](https://innovation.ebayinc.com/tech/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
 8. [CRISP: Critical Path Analysis for Microservice Architectures](https://www.uber.com/en-ID/blog/crisp-critical-path-analysis-for-microservice-architectures/)
 9. [Payment Transaction Management in Microservices](https://engineering.mercari.com/en/blog/entry/20210831-2019-06-07-155849/)
-10. [Microservices at Nubank, An Overview](https://medium.com/building-nubank/microservices-at-nubank-an-overview-2ebcb336c64d)
+10. [Microservices at Nubank, An Overview](https://building.nubank.com.br/microservices-at-nubank-an-overview/)
 11. [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 12. [Testing of Microservices](https://engineering.atspotify.com/2018/01/testing-of-microservices/)
