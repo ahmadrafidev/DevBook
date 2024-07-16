@@ -15,6 +15,7 @@ sidebar_position: 28
 7. [WCAG 2.1](https://www.w3.org/TR/WCAG21/#abstract)
 8. [WAI-ARIA 1.2](https://www.w3.org/TR/wai-aria/)
 9. [Facebook.com A11y](https://engineering.fb.com/2020/07/30/web/facebook-com-accessibility/)
+10. [Learn A11y by web.dev](https://web.dev/learn/accessibility/welcome)
 
 ### Accessibility Tools
 
