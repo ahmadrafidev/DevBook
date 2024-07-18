@@ -13,7 +13,7 @@ sidebar_position: 21
 
 ## What I'm Building
 
-To implement my learning about UI, UX, Design Engineer, Design System, right now I'm building a design system what I called [Astra UI](https://github.com/ahmadrafidev/astra): a digital vault for UI components. Astra UI will contains many components and behind the scenes principles that can be a foundational building blocks of UI on every platform, such as web, android, and ios. 
+To implement my learning about UI, UX, Design Engineer, Design System, right now I'm building a design system what I called [Astra UI](https://www.astraui.design/): a digital vault for UI components. Astra UI will contains many components and behind the scenes principles that can be a foundational building blocks of UI on every platform, such as web, android, and ios. 
 
 ## Inspiration
 
