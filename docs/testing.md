@@ -83,6 +83,7 @@ For further exploration of testing techniques, I recommend the following resourc
 6. [Integration Test at Twitter](https://blog.x.com/engineering/en_us/topics/infrastructure/2019/integrationtestsatscale)
 7. [Preseeding Run Test](https://www.rippling.com/blog/preseeding-faster-way-to-run-tests)
 8. [Grab Quality Testing](https://engineering.grab.com/evolution-of-quality)
+9. [Flaky Test at Uber](https://www.uber.com/en-ID/blog/flaky-tests-overhaul/?uclick_id=8f4708b7-21e1-4c80-93c8-c4f3ef0e0641)
 
 ## Recommended Talks
 
