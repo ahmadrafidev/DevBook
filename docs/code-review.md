@@ -23,3 +23,4 @@ Here I got several references or articles from big tech companies about how they
 1. [Yelp's Code Review Guideline](https://engineeringblog.yelp.com/2017/11/code-review-guidelines.html)
 2. [Meta Code Review](https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/)
 3. [Google Code Review](https://graphite.dev/blog/how-google-does-code-review)
+4. [Code Review @ Medium](https://medium.engineering/code-reviews-at-medium-bed2c0dce13a)
