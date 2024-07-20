@@ -21,3 +21,4 @@ To help standardize commit messages across projects, I find the following packag
 
 1. [Commit Lint](https://commitlint.js.org/): Ensures that your commit messages meet the required standards.
 2. [Commitizen](https://commitizen.github.io/cz-cli/): Streamlines the process of creating conventional commit messages.
+3. [Husky](https://typicode.github.io/husky/): For automatically lint your commit messages, code, and run tests upon committing or pushing.
