@@ -15,3 +15,4 @@ My best curated articles about doing security in software engineering:
 5. [E2E Encryption at Dropbox](https://dropbox.tech/security/end-to-end-encryption-for-dropbox-teams)
 6. [Security and Speed at Figma](https://www.figma.com/blog/our-approach-to-security-at-speed/)
 7. [Facial Recognition at Grab](https://engineering.grab.com/facial-recognition)
+8. [Proactive Measures Against Password Breaches and Cookie Hijacking](https://slack.engineering/proactive-measures-against-password-breaches-and-cookie-hijacking/)

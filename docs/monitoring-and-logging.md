@@ -104,6 +104,8 @@ I found this article useful on all about monitoring and logging.
 
 1. [Benefit of using monitoring tools](https://thefrugalarchitect.com/laws/unobserved-systems-lead-to-unknown-costs.html)
 2. [How to Instrument Your Service](https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/)
+3. [Reducing Logging Cost by Two Orders of Magnitude using CLP](https://www.uber.com/en-ID/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/?uclick_id=8f4708b7-21e1-4c80-93c8-c4f3ef0e0641)
+4. [Modernizing Logging at Uber with CLP (Part II)](https://www.uber.com/en-ID/blog/modernizing-logging-with-clp-ii/?uclick_id=8f4708b7-21e1-4c80-93c8-c4f3ef0e0641)
 
 
 ### All about Error Message
