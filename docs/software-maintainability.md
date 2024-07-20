@@ -44,3 +44,7 @@ I am referencing to this [documentation docs](documentation.md).
 3. [Improving Code Quality by LY - 3](https://techblog.lycorp.co.jp/en/20240513b)
 4. [Improving Code Quality by LY - 4](https://techblog.lycorp.co.jp/en/20240520b)
 5. [Improving Code Quality by LY - 5](https://techblog.lycorp.co.jp/en/20240527b)
+
+### Refactoring Articles
+
+1. [How to Refactor and Not Break Things](https://sentry.engineering/blog/how-to-refactor-and-not-break-things)

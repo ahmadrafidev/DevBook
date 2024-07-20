@@ -14,3 +14,4 @@ Here is a list of articles that really moved me about doing engineering culture:
 3. [Figma Engineering Values](https://www.figma.com/blog/figmas-engineering-values/)
 4. [Ship @ Resend](https://resend.com/handbook/engineering/how-we-ship-new-features)
 5. [SDLC @ Resend](https://resend.com/handbook/engineering/how-we-plan-our-cycles)
+6. [Engineering Growth at Medium](https://medium.engineering/engineering-growth-at-medium-4935b3234d25)
