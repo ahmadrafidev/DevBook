@@ -75,6 +75,8 @@ def test_get_user_info():
 
 For further exploration of testing techniques, I recommend the following resources from some of the big tech companies:
 
+### Blogs
+
 1. [Modern Testing by Mercary](https://engineering.mercari.com/en/blog/entry/20240425-mercaris-adoption-of-modern-testing-techniques/)
 2. [Autonomous Testing at Meta](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/)
 3. [Effective Test Pipeline by Airbnb](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)
@@ -85,6 +87,10 @@ For further exploration of testing techniques, I recommend the following resourc
 8. [Grab Quality Testing](https://engineering.grab.com/evolution-of-quality)
 9. [Flaky Test at Uber](https://www.uber.com/en-ID/blog/flaky-tests-overhaul/?uclick_id=8f4708b7-21e1-4c80-93c8-c4f3ef0e0641)
 10. [Uber’s Accounting Data Testing Strategies](https://www.uber.com/en-ID/blog/accounting-data-testing-strategies/?uclick_id=8f4708b7-21e1-4c80-93c8-c4f3ef0e0641)
+
+### Guides
+
+1. [Writing Test by Modern Web](https://modern-web.dev/docs/test-runner/writing-tests/js-tests/)
 
 ## Recommended Talks
 
