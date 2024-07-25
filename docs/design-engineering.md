@@ -27,6 +27,14 @@ Then, what I mean product design is the art and science of creating a product th
 
 1. [JSX A11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
 
+## Micro Frontend Architecture
+
+### Reading
+
+### Talks
+
+1. [Micro Frontend Architecture by Luca Mezzalira](https://www.youtube.com/watch?v=BuRB3djraeM)
+
 ## Performance
 
 Some concepts and experiences here: [On performance notes](./performance-optimization.md)
