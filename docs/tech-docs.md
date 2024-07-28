@@ -14,3 +14,7 @@ In addition to the above, here are some resources that provide a comprehensive o
 2. [Eng Design Doc Template](https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/edit#heading=h.psi98t855m9r): A simple yet practical template that can be directly applied or adapted to suit specific project needs. It’s particularly useful for ensuring all critical aspects of a project are covered.
 
 Through my journey, I've learned that effective tech docs are not just about detailing what needs to be built but also why. This approach ensures that everyone involved has a clear understanding and keeps the project aligned with its goals.
+
+## Nice Resources about Tech Docs
+
+1. [Ignition Design Doc: V8 Interpreter](https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit#heading=h.6jz9dj3bnr8t)
