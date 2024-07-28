@@ -37,6 +37,10 @@ I am referencing to this [documentation docs](documentation.md).
 3. [Redesigning Pinterest Ad System](https://medium.com/pinterest-engineering/redesigning-pinterests-ad-serving-systems-with-zero-downtime-3253d2432a0c)
 4. [Code as a Documentation](https://www.martinfowler.com/bliki/CodeAsDocumentation.html)
 
+## Recommended Talks
+
+1. [Why Google Stores Billions of Lines of Code in a Single Repository](https://www.youtube.com/watch?v=W71BTkUbdqE)
+
 ### Code Quality
 
 1. [Improving Code Quality by LY - 1](https://techblog.lycorp.co.jp/en/20240422a)
