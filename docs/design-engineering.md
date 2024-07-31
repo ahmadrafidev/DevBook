@@ -32,6 +32,8 @@ Then, what I mean product design is the art and science of creating a product th
 
 ### Reading
 
+1. [Fragmented UI with Microfrontends by Flipkart](https://blog.flipkart.tech/addressing-fragmented-ui-s-with-micro-frontends-7cb083e5b52c)
+
 ### Talks
 
 1. [Micro Frontend Architecture by Luca Mezzalira](https://www.youtube.com/watch?v=BuRB3djraeM)
