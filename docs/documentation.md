@@ -79,3 +79,7 @@ In my career I have used various tools for documentation, listed here in no part
 
 1. [Doc as Code by Grab](https://engineering.grab.com/doc-as-code)
 2. [(DevDojo by Mercari) Design Doc](https://speakerdeck.com/mercari/devdojo-mercari-design-doc-2024)
+
+## Cool things to have
+
+1. [JSDoc](https://jsdoc.app/)
