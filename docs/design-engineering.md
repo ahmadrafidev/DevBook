@@ -28,6 +28,10 @@ Then, what I mean product design is the art and science of creating a product th
 1. [JSX A11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
 2. [Color Contrast Ratio Thresholds](https://dequeuniversity.com/rules/axe/4.9/color-contrast)
 
+### Talks on A11y
+
+1. [The intersection of accessibility and performanc](https://www.youtube.com/watch?v=EGKNN4MVLq8)
+
 ## Micro Frontend Architecture
 
 ### Reading
