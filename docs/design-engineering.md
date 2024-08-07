@@ -51,3 +51,4 @@ Some concepts and experiences here: [On performance notes](./performance-optimiz
 3. [Progressive Rendering: Improve Performance on Slower Networks](https://www.youtube.com/watch?v=iYW7vKCqN6g&list=PLVUliVBcvz1mFVfJuRw9ZQOqfkp6QdoCJ&index=25)
 4. [Web Performance Trivia](https://www.youtube.com/watch?v=8dB_TpSM8ak&list=PLVUliVBcvz1mFVfJuRw9ZQOqfkp6QdoCJ&index=23)
 5. [Adaptive Loading - Improving web performance on slow devices](https://www.youtube.com/watch?v=puUPpVrIRkc&list=PLVUliVBcvz1mFVfJuRw9ZQOqfkp6QdoCJ&index=15)
+6. [Fantastic Frontend Performance Tricks & Why We Do Them](https://www.youtube.com/watch?v=pSCHN4oU2JQ&list=PLSmH2HL6l9pw47J-xWZSIH7HpEgqlGiXD&index=4)
