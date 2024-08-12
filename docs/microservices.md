@@ -48,3 +48,7 @@ The first and foremost, why microservices?
 10. [Microservices at Nubank, An Overview](https://building.nubank.com.br/microservices-at-nubank-an-overview/)
 11. [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 12. [Testing of Microservices](https://engineering.atspotify.com/2018/01/testing-of-microservices/)
+
+## Recommended Talks
+
+1. [Mastering Chaos: Netflix’s Guides to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
