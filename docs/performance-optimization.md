@@ -88,6 +88,10 @@ Check out these cool articles about performance:
 12. [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 13. [How we sped up Notion in the browser with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 
+## Recommended Talks
+
+1. [Effective Performance Engineering at Twitter-Scale](https://www.youtube.com/watch?v=bHZ008Ul8kA)
+
 ## Nice References
 
 1. Refactoring
