@@ -59,3 +59,4 @@ Below I found a very useful talk on the topic of scale:
 4. [Cross Continent Infrastructure Scaling @ Instagram](https://www.youtube.com/watch?v=IFPHQo-o6Vo)
 5. [Scaling Push Messaging for Millions of Devices @ Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E)
 6. [Scaling Infrastructure Engineering @ Slack](https://www.youtube.com/watch?v=yHBwoZh1Mxg&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=128)
+7. [Delivering Millions of Notifications within Seconds @ Duolingo](https://www.youtube.com/watch?v=J_sGZnAJhbw)
