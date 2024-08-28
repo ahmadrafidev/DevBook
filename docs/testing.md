@@ -18,6 +18,8 @@ Test Driven Development (TDD) is a software development approach where tests are
 
 Unit Testing involves breaking down the software into its smallest parts, or units, and testing each one individually. Unit tests are automated, run quickly, and are repeated often to ensure each unit continues to work correctly as changes are made.
 
+## E2E Testing
+
 ### React Component Testing
 
 Best Practice: Focus on testing user interactions and outputs of components.
