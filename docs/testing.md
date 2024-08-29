@@ -20,6 +20,8 @@ Unit Testing involves breaking down the software into its smallest parts, or uni
 
 ## E2E Testing
 
+End-to-End (E2E) Testing involves testing the complete flow of an application from start to finish, simulating real user scenarios to ensure that all components and systems interact correctly. This type of testing helps ensure that the software functions as expected in a real-world environment, providing a comprehensive validation of both functionality and user experience.
+
 ### React Component Testing
 
 Best Practice: Focus on testing user interactions and outputs of components.
