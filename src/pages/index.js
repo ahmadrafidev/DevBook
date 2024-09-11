@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="A simple website for documenting my learning in software engineering">
+      description="A docs-like website for documenting my learning in software engineering">
       <main>
         <Homepage />
       </main>
