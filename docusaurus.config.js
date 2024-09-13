@@ -63,7 +63,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: "DevBook",
@@ -76,9 +75,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Learning',
+            label: 'Notes',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/blog', 
+            label: 'Blog', 
+            position: 'left'
+          },
           {
             href: 'https://github.com/ahmadrafidev',
             label: 'GitHub',
@@ -90,10 +93,10 @@ const config = {
         style: 'light',
         links: [
           {
-            title: 'Notes',
+            title: 'Learning',
             items: [
               {
-                label: 'Learning',
+                label: 'Notes',
                 to: '/docs/intro',
               },
               {
