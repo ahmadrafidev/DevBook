@@ -1,6 +1,6 @@
 # DevBook - A Digital Notes for My in Learning Software Engineering 
 
-Welcome to "My Learning" website, a digital space I've created to document and share my ongoing journey in the field of Software Engineering. Here, I continuously compile, reflect, and disseminate the knowledge and skills I acquire from various sources including internships, mentorship programs, college courses, and self-study.
+Welcome to Devbook, a digital notes where I've created to document and share my ongoing journey in the field of Software Engineering. Here, I continuously compile, reflect, and disseminate the knowledge and skills I acquire from various sources including internships, mentorship programs, college courses, and self-study.
 
 ## **Purpose**
 
