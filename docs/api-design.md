@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # API 
 
-In my journey as a software engineer, APIs (Application Programming Interfaces) have been a cornerstone for building interoperable software systems. They are the channels through which different software components communicate and exchange data. Creating a well-designed API not only facilitates seamless integration but also ensures that your application can grow and adapt over time without major disruptions. Here are my notes on developing an API from start to finish, from ideation to production.
+In my experience, APIs (Application Programming Interfaces) have been a cornerstone for building interoperable software systems. They are the channels through which different software components communicate and exchange data. Creating a well-designed API not only facilitates seamless integration but also ensures that your application can grow and adapt over time without major disruptions. Here are my notes on developing an API from start to finish, from ideation to production.
 
 ## API Design
 
