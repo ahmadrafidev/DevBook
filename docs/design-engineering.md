@@ -60,3 +60,4 @@ Some concepts and experiences here: [On performance notes](./performance-optimiz
 4. [Web Performance Trivia](https://www.youtube.com/watch?v=8dB_TpSM8ak&list=PLVUliVBcvz1mFVfJuRw9ZQOqfkp6QdoCJ&index=23)
 5. [Adaptive Loading - Improving web performance on slow devices](https://www.youtube.com/watch?v=puUPpVrIRkc&list=PLVUliVBcvz1mFVfJuRw9ZQOqfkp6QdoCJ&index=15)
 6. [Fantastic Frontend Performance Tricks & Why We Do Them](https://www.youtube.com/watch?v=pSCHN4oU2JQ&list=PLSmH2HL6l9pw47J-xWZSIH7HpEgqlGiXD&index=4)
+7. [Betting on the web: Ensuring fine-tuned performance for dynamic web apps (Adobe)](https://www.youtube.com/watch?v=T1N8jh-aCoc)
