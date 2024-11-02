@@ -114,3 +114,7 @@ I found this article useful on all about monitoring and logging.
 2. [Error Message Guideline by NN Group](https://www.nngroup.com/articles/error-message-guidelines/)
 3. [Write better Error Message](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 4. [How to write any Error Message](https://medium.com/deliveroo-design/how-to-write-any-error-message-7a3348cce594)
+
+## Talks
+
+1. [Shopify Observe Series](https://www.youtube.com/playlist?list=PLvQF73bM4-5X9mt0lweCXL_v8xdvrLEvB)
