@@ -52,7 +52,7 @@ Some concepts and experiences here: [On performance notes](./performance-optimiz
 
 ### Reading
 
-### Talks
+### Talks: Engineering
 
 1. [Bringing Excellent UX to the React Ecosystem via Strong Defaults](https://www.youtube.com/watch?v=WvfIxIJkk1U&list=PLVUliVBcvz1mFVfJuRw9ZQOqfkp6QdoCJ&index=4)
 2. [Caches All the Way Down!](https://www.youtube.com/watch?v=WFI-Yi9Fb7Y&list=PLVUliVBcvz1mFVfJuRw9ZQOqfkp6QdoCJ&index=28)
