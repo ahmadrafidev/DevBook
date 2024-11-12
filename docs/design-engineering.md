@@ -65,3 +65,4 @@ Some concepts and experiences here: [On performance notes](./performance-optimiz
 ### Talks: Animation
 
 1. [Designing Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803)
+2. [Design dynamic Live Activities](https://developer.apple.com/videos/play/wwdc2023/10194/)
