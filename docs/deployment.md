@@ -35,6 +35,7 @@ In my journey through software engineering, I've learned that effective deployme
 3. [Blue-green Deployment (Martin Fowler)](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 4. [Safer Deployment by Grab](https://engineering.grab.com/safer-flink-deployments)
 5. [CI/CD @ Resend](https://resend.com/handbook/engineering/how-we-approach-ci-cd)
+6. [How DoorDash Manages Mobile Releases](https://careersatdoordash.com/blog/how-doordash-manages-mobile-releases/)
 
 ## Recommended Talks
 
