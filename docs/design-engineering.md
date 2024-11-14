@@ -66,3 +66,6 @@ Some concepts and experiences here: [On performance notes](./performance-optimiz
 
 1. [Designing Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803)
 2. [Design dynamic Live Activities](https://developer.apple.com/videos/play/wwdc2023/10194/)
+3. [The Qualities of Great Design](https://developer.apple.com/videos/play/wwdc2018/801/)
+4. [Essential Design Principles](https://developer.apple.com/videos/play/wwdc2017/802/)
+5. [Iterative UI Design](https://developer.apple.com/videos/play/wwdc2016/805/)
