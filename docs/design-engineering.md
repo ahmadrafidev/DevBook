@@ -62,6 +62,10 @@ Some concepts and experiences here: [On performance notes](./performance-optimiz
 6. [Fantastic Frontend Performance Tricks & Why We Do Them](https://www.youtube.com/watch?v=pSCHN4oU2JQ&list=PLSmH2HL6l9pw47J-xWZSIH7HpEgqlGiXD&index=4)
 7. [Betting on the web: Ensuring fine-tuned performance for dynamic web apps (Adobe)](https://www.youtube.com/watch?v=T1N8jh-aCoc)
 
+### Talks: Design
+
+1. [Essential Design Principles](https://developer.apple.com/videos/play/wwdc2017/802/)
+
 ### Talks: Animation
 
 1. [Designing Fluid Interfaces](https://developer.apple.com/videos/play/wwdc2018/803)
