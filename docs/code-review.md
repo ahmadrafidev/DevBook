@@ -24,3 +24,7 @@ Here I got several references or articles from big tech companies about how they
 2. [Meta Code Review](https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/)
 3. [Google Code Review](https://graphite.dev/blog/how-google-does-code-review)
 4. [Code Review @ Medium](https://medium.engineering/code-reviews-at-medium-bed2c0dce13a)
+
+## Reading
+
+1. [MIT Code Review](https://ocw.mit.edu/ans7870/6/6.005/s16/classes/04-code-review/)
