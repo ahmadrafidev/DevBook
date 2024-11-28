@@ -52,3 +52,4 @@ The first and foremost, why microservices?
 ## Recommended Talks
 
 1. [Mastering Chaos: Netflix’s Guides to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+2. [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
