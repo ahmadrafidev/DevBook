@@ -47,3 +47,4 @@ Distributed Architecture involves multiple software components located on differ
 5. [Airbnb Architecture at scale](https://www.youtube.com/watch?v=pnHiVFYpLzs&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=53)
 6. [Netflix Play API - An Evolutionary Architecture](https://www.youtube.com/watch?v=6oPj-DW09DU&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=147)
 7. [Thinking Like an Architect](https://www.youtube.com/watch?v=Oib06l1CHME&t=18s)
+8. [How Netflix Ensures Highly-Reliable Online Stateful Systems](https://www.youtube.com/watch?v=paTtLhZFsGE)
