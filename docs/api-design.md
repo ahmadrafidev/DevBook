@@ -101,4 +101,6 @@ Some articles that really help me to understand better about how to build a robu
 
 Below is a great resource for creating design APIs, arguably best practices from various types of big tech companies:
 
-[API Stylebook Guideline](https://apistylebook.com/design/guidelines/)
+1. [API Stylebook Guideline](https://apistylebook.com/design/guidelines/)
+2. [Google API Improvement Proposals](https://google.aip.dev/)
+
