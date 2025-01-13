@@ -71,7 +71,7 @@ Good documentation is as crucial as the API itself. It’s the bridge between my
 - **Clarity and Completeness**: I make sure that every endpoint is documented with possible requests, responses, and errors explained.
 - **Examples**: I include plenty of examples, as they are invaluable for developers trying to understand how to use the API.
 
-One of the great ways to do API Documentation is using [Swagger](https://swagger.io/).
+One of the great ways to do API Documentation is using [Swagger](https://swagger.io/) or more spesific [OpenAPI Specification](https://swagger.io/specification/)
 
 ## API Testing
 
