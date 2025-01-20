@@ -91,6 +91,7 @@ For further exploration of testing techniques, I recommend the following resourc
 8. [Grab Quality Testing](https://engineering.grab.com/evolution-of-quality)
 9. [Flaky Test at Uber](https://www.uber.com/en-ID/blog/flaky-tests-overhaul/?uclick_id=8f4708b7-21e1-4c80-93c8-c4f3ef0e0641)
 10. [Uber’s Accounting Data Testing Strategies](https://www.uber.com/en-ID/blog/accounting-data-testing-strategies/?uclick_id=8f4708b7-21e1-4c80-93c8-c4f3ef0e0641)
+11. [Automated A11y Testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
 
 ### Guides
 
