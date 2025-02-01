@@ -41,6 +41,10 @@ In my journey through software engineering, I've learned that effective deployme
 
 1. [Shipping Code Faster by Mercari (DevDojo)](https://www.youtube.com/watch?v=iCVfIQlbrDo)
 
+## Articles
+
+1. [Production Readiness Check](https://engineering.mercari.com/en/blog/entry/20241213-new-production-readiness-check-experience-in-mercari/)
+
 ## Nice to have tools
 
 1. [Vercel Feature Flags](https://vercel.com/docs/workflow-collaboration/feature-flags)
