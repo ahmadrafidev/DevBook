@@ -93,6 +93,10 @@ For further exploration of testing techniques, I recommend the following resourc
 10. [Uber’s Accounting Data Testing Strategies](https://www.uber.com/en-ID/blog/accounting-data-testing-strategies/?uclick_id=8f4708b7-21e1-4c80-93c8-c4f3ef0e0641)
 11. [Automated A11y Testing at Slack](https://slack.engineering/automated-accessibility-testing-at-slack/)
 
+## Articles
+
+1. [Contract Testing at Delivery Hero](https://tech.deliveryhero.com/how-contract-testing-helped-our-organization-to-prevent-production-incidents/)
+
 ### Guides
 
 1. [Writing Test by Modern Web](https://modern-web.dev/docs/test-runner/writing-tests/js-tests/)
