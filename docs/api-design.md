@@ -93,6 +93,7 @@ Some articles that really help me to understand better about how to build a robu
 2. [API Handbook by Open API](https://learn.openapis.org/introduction.html)
 3. [API Rate Limiter by Stripe](https://stripe.com/blog/rate-limiters)
 4. [Enterprise Grade API by Rippling](https://www.rippling.com/blog/enterprise-grade-apis)
+5. [API Versioning at Gusto](https://engineering.gusto.com/api-versioning-at-gusto-681a2fd96394)
 
 ## Recommended Talks
 
