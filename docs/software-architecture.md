@@ -48,3 +48,7 @@ Distributed Architecture involves multiple software components located on differ
 6. [Netflix Play API - An Evolutionary Architecture](https://www.youtube.com/watch?v=6oPj-DW09DU&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=147)
 7. [Thinking Like an Architect](https://www.youtube.com/watch?v=Oib06l1CHME&t=18s)
 8. [How Netflix Ensures Highly-Reliable Online Stateful Systems](https://www.youtube.com/watch?v=paTtLhZFsGE)
+
+### Articles
+
+1. [Governance as Code](https://medium.com/agoda-engineering/governance-as-code-an-innovative-approach-to-software-architecture-verification-d93f95443662)
