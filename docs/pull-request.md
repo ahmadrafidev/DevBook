@@ -77,3 +77,4 @@ This PR template is also worth implementing because it is simple and to the poin
 
 1. [Merge Request at Ramp](https://engineering.ramp.com/merge-queues)
 2. [Pull Request at Resend](https://resend.com/handbook/engineering/how-we-review-pull-requests)
+3. [Merge Request Bot at Agoda](https://medium.com/agoda-engineering/how-to-streamline-your-development-workflow-with-merge-request-bot-d5296e4a380f)
