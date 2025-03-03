@@ -78,7 +78,8 @@ In my career I have used various tools for documentation, listed here in no part
 ## Recommended Reading
 
 1. [Doc as Code by Grab](https://engineering.grab.com/doc-as-code)
-2. [(DevDojo by Mercari) Design Doc](https://speakerdeck.com/mercari/devdojo-mercari-design-doc-2024)
+2. [TechDocs at Grab](https://engineering.grab.com/techdocs-at-grab-cultivating-a-culture-of-quality-documentation)
+3. [(DevDojo by Mercari) Design Doc](https://speakerdeck.com/mercari/devdojo-mercari-design-doc-2024)
 
 ## Cool things to have
 
