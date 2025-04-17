@@ -110,7 +110,7 @@ const config = {
             items: [
               {
                 label: 'Personal Website',
-                href: 'https://www.ahmadrafi.dev/',
+                href: 'https://www.rafiwirana.co/',
               },
               {
                 label: 'LinkedIn',
