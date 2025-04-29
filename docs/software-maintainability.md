@@ -37,6 +37,7 @@ I am referencing to this [documentation docs](documentation.md).
 3. [Redesigning Pinterest Ad System](https://medium.com/pinterest-engineering/redesigning-pinterests-ad-serving-systems-with-zero-downtime-3253d2432a0c)
 4. [Code as a Documentation](https://www.martinfowler.com/bliki/CodeAsDocumentation.html)
 5. [Availability](https://www.intercom.com/blog/intercom-for-enterprise-availability/)
+6. [How we built a robust ecosystem for dataset development](https://blog.duolingo.com/dataset-development/)
 
 ## Recommended Talks
 
