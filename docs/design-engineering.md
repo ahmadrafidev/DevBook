@@ -65,6 +65,7 @@ Some concepts and experiences here: [On performance notes](./performance-optimiz
 ### Talks: Design
 
 1. [Essential Design Principles](https://developer.apple.com/videos/play/wwdc2017/802/)
+2. [Craft and beauty: The business value of form in function](https://stripe.com/sessions/2024/craft-and-beauty-the-business-value-of-form-in-function)
 
 ### Talks: Animation
 
