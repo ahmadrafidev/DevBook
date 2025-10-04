@@ -1,5 +1,7 @@
 # DevBook: A Digital Notes
 
+**notes: I moved it to https://devhandbook.vercel.app**
+
 Devbook is a dynamic digital notebook where I document and share my ongoing exploration in the field of Software Engineering. This is more than just a collection of notes—it's a living archive of the skills, insights, and experiences I’ve gathered through internships, mentorships, college courses, and self-study.
 
 ## **Purpose**
